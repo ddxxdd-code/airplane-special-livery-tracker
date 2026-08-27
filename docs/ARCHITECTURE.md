@@ -2,7 +2,7 @@
 
 ## Design goal
 
-Livery Watch produces a small, auditable list of special-livery airport movements. Flight providers usually do not offer a dependable “special livery” field, so matching is registration-first: the application joins an airport schedule to a curated list of aircraft registrations.
+Livery Watch produces a small, auditable list of special-livery airport movements. Flight providers usually do not offer a dependable “special livery” field, so the application joins an airport schedule to a curated list of aircraft registrations.
 
 It deliberately does not scrape Flightradar24 or JetTip.
 

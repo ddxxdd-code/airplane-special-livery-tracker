@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/livery-watch-logo.svg" width="760" alt="Livery Watch — registration-first rare-bird tracking">
+  <img src="docs/assets/livery-watch-logo.svg" width="760" alt="Livery Watch — rare-bird tracking">
 </p>
 
 <p align="center"><strong>Find the special paint before it reaches the gate.</strong></p>

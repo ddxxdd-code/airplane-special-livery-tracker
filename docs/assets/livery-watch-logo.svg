@@ -36,6 +36,6 @@
     <path d="M165 120 L184 111 L187 112 L179 122Z"/>
   </g>
   <text x="224" y="120" fill="#ffffff" font-family="Manrope, Inter, system-ui, sans-serif" font-size="65" font-weight="800" letter-spacing="-3">LIVERY <tspan fill="#ed6a4c">WATCH</tspan></text>
-  <text x="229" y="158" fill="#adc0c3" font-family="DM Mono, ui-monospace, monospace" font-size="16" font-weight="500" letter-spacing="4">REGISTRATION-FIRST RARE-BIRD TRACKING</text>
+  <text x="362" y="158" fill="#adc0c3" font-family="DM Mono, ui-monospace, monospace" font-size="16" font-weight="500" letter-spacing="4">RARE-BIRD TRACKING</text>
   <rect x="229" y="178" width="122" height="5" rx="2.5" fill="#f3be57"/>
 </svg>

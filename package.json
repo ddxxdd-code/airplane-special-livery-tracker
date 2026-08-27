@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Registration-first special livery tracker and daily airport newsletter",
+  "description": "Special livery tracker and daily airport newsletter",
   "scripts": {
     "dev": "node --watch server.mjs",
     "start": "node server.mjs",
