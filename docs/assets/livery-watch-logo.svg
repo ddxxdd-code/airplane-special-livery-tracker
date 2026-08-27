@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title description">
   <title id="title">Livery Watch</title>
-  <desc id="description">A coral aircraft crossing radar rings beside the Livery Watch wordmark.</desc>
+  <desc id="description">A Boeing 747-8 silhouette crossing radar rings beside the Livery Watch wordmark.</desc>
   <rect width="960" height="240" rx="38" fill="#081c2b"/>
   <g fill="none" stroke="#ffffff" stroke-opacity=".075">
     <circle cx="890" cy="-5" r="88"/>
@@ -11,8 +11,11 @@
   </g>
   <circle cx="124" cy="120" r="66" fill="#ed6a4c"/>
   <circle cx="124" cy="120" r="51" fill="none" stroke="#ffffff" stroke-opacity=".3" stroke-width="2"/>
-  <path d="m78 127 35-7 31-30 11 4-21 31 30 7v10l-30 3-18 20-8-4 8-20-28-4-10-10Z" fill="#ffffff"/>
   <path d="M86 102a47 47 0 0 1 73-12M79 87a66 66 0 0 1 98-12" fill="none" stroke="#f7c15d" stroke-linecap="round" stroke-width="4"/>
+  <g transform="translate(39 50) scale(.63)">
+    <path d="M47 126 35 88h13l21 34 22-4c5-16 17-25 35-25h22l32-22 13 4-21 22 20 5c16 4 28 10 36 19 4 5 2 10-4 13-8 4-18 6-30 6l-55-1 32 34-14 4-49-38-46-2-18 19H31l16-30Z" fill="#ffffff"/>
+    <path d="M91 118c13-6 28-9 46-9h30" fill="none" stroke="#ed6a4c" stroke-linecap="round" stroke-width="5"/>
+  </g>
   <text x="224" y="120" fill="#ffffff" font-family="Manrope, Inter, system-ui, sans-serif" font-size="65" font-weight="800" letter-spacing="-3">LIVERY <tspan fill="#ed6a4c">WATCH</tspan></text>
   <text x="229" y="158" fill="#adc0c3" font-family="DM Mono, ui-monospace, monospace" font-size="16" font-weight="500" letter-spacing="4">REGISTRATION-FIRST RARE-BIRD TRACKING</text>
   <rect x="229" y="178" width="122" height="5" rx="2.5" fill="#f3be57"/>
