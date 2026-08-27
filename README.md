@@ -6,7 +6,7 @@
 
 <p align="center">
   <img alt="Node.js 20 or newer" src="https://img.shields.io/badge/Node.js-20%2B-339933?logo=nodedotjs&logoColor=white">
-  <img alt="369 tracked registrations" src="https://img.shields.io/badge/tracked_registrations-369-ed6a4c">
+  <img alt="369 tracked special liveries" src="https://img.shields.io/badge/tracked_special_liveries-369-ed6a4c">
   <img alt="No runtime dependencies" src="https://img.shields.io/badge/runtime_dependencies-0-0a2433">
 </p>
 
