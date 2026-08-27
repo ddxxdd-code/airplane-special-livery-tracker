@@ -20,7 +20,8 @@ There are no package dependencies to install.
 ## Start the app
 
 ```bash
-cd /Users/dedongxie/Documents/Livery_tracker
+git clone https://github.com/ddxxdd-code/livery-tracker.git
+cd livery-tracker
 npm start
 ```
 
