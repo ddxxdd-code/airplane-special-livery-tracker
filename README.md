@@ -1,8 +1,43 @@
-# Livery Watch
+<p align="center">
+  <img src="docs/assets/livery-watch-logo.svg" width="760" alt="Livery Watch — registration-first rare-bird tracking">
+</p>
+
+<p align="center"><strong>Find the special paint before it reaches the gate.</strong></p>
+
+<p align="center">
+  <img alt="Node.js 20 or newer" src="https://img.shields.io/badge/Node.js-20%2B-339933?logo=nodedotjs&logoColor=white">
+  <img alt="369 tracked registrations" src="https://img.shields.io/badge/tracked_registrations-369-ed6a4c">
+  <img alt="No runtime dependencies" src="https://img.shields.io/badge/runtime_dependencies-0-0a2433">
+</p>
+
+<p align="center">
+  <a href="#quick-start">Quick start</a> ·
+  <a href="#see-it-in-action">Preview</a> ·
+  <a href="docs/ARCHITECTURE.md">Architecture</a> ·
+  <a href="docs/CONTRIBUTING.md">Contribute</a>
+</p>
 
 Livery Watch finds special-livery arrivals and departures by matching airport schedules to a curated aircraft-registration watchlist. Use the browser dashboard for interactive searches or generate a standalone daily HTML newsletter.
 
-## Requirements
+## See it in action
+
+<p align="center">
+  <img src="docs/assets/dashboard-preview.png" width="1200" alt="Livery Watch dashboard showing special-livery arrivals and departures at Seattle">
+</p>
+
+> The preview uses the built-in KSEA demo schedule. With an AeroDataBox key, the same interface uses live airport movements and registration data.
+
+## Highlights
+
+- Tracks 369 verified aircraft registrations across airlines serving Seattle.
+- Searches any airport using its four-character ICAO code.
+- Filters arrivals and departures by direction, search text, and scheduled-time range.
+- Shows flight details, registration, livery evidence, and aircraft photography.
+- Exports filtered CSV data and a standalone daily HTML newsletter.
+
+## Quick start
+
+### Requirements
 
 - Node.js 20 or newer
 - `npm`, included with Node.js
@@ -17,11 +52,11 @@ npm --version
 
 There are no package dependencies to install.
 
-## Start the app
+### Start the app
 
 ```bash
 git clone https://github.com/ddxxdd-code/airplane-special-livery-tracker.git
-cd livery-tracker
+cd airplane-special-livery-tracker
 npm start
 ```
 
