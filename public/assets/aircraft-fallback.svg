@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title description">
+  <title id="title">Aircraft illustration</title>
+  <desc id="description">A stylized aircraft flying over the Pacific Northwest</desc>
+  <rect width="720" height="420" fill="#dceee8"/>
+  <circle cx="610" cy="78" r="54" fill="#f3be57"/>
+  <path d="M0 310 120 224l64 49 111-116 119 122 64-54 151 113 91-62v144H0Z" fill="#173e48"/>
+  <path d="M0 337 147 267l64 41 92-91 107 102 81-56 129 93 100-45v109H0Z" fill="#0b2635"/>
+  <path d="m181 168 123 8 137-87 30 8-83 84 142 17c16 2 29 12 37 26l-4 5-173-1-83 77-25-3 38-76-105-16-34-42Z" fill="#f8faf7" stroke="#0b2635" stroke-width="6" stroke-linejoin="round"/>
+  <path d="m308 176 80 5-21 22-55-5Z" fill="#ef6c4d"/>
+</svg>

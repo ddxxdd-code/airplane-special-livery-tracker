@@ -1,0 +1,16 @@
+{
+  "name": "livery-watch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Registration-first special livery tracker and daily airport newsletter",
+  "scripts": {
+    "dev": "node --watch server.mjs",
+    "start": "node server.mjs",
+    "test": "node --test",
+    "newsletter": "node scripts/generate-newsletter.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

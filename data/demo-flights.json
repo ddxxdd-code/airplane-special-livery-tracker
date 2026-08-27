@@ -1,0 +1,62 @@
+[
+  {
+    "id": "demo-as-26",
+    "direction": "departure",
+    "flightNumber": "AS 26",
+    "airline": "Alaska Airlines",
+    "airport": { "iata": "JFK", "icao": "KJFK", "name": "New York JFK", "city": "New York" },
+    "scheduled": "2026-08-25T08:05:00-07:00",
+    "estimated": "2026-08-25T08:12:00-07:00",
+    "actual": null,
+    "status": "Boarding",
+    "terminal": "N",
+    "gate": "N12",
+    "registration": "N985AK",
+    "aircraftType": "Boeing 737-9 MAX"
+  },
+  {
+    "id": "demo-qx-2043",
+    "direction": "arrival",
+    "flightNumber": "AS 2043",
+    "airline": "Horizon Air",
+    "airport": { "iata": "PDX", "icao": "KPDX", "name": "Portland International", "city": "Portland" },
+    "scheduled": "2026-08-25T09:20:00-07:00",
+    "estimated": "2026-08-25T09:14:00-07:00",
+    "actual": "2026-08-25T09:16:00-07:00",
+    "status": "Arrived",
+    "terminal": "C",
+    "gate": "C10F",
+    "registration": "N659QX",
+    "aircraftType": "Embraer 175"
+  },
+  {
+    "id": "demo-ha-21",
+    "direction": "departure",
+    "flightNumber": "HA 21",
+    "airline": "Hawaiian Airlines",
+    "airport": { "iata": "HNL", "icao": "PHNL", "name": "Daniel K. Inouye International", "city": "Honolulu" },
+    "scheduled": "2026-08-25T10:10:00-07:00",
+    "estimated": "2026-08-25T10:28:00-07:00",
+    "actual": null,
+    "status": "Delayed",
+    "terminal": "S",
+    "gate": "S11",
+    "registration": "N227HA",
+    "aircraftType": "Airbus A321neo"
+  },
+  {
+    "id": "demo-oz-272",
+    "direction": "arrival",
+    "flightNumber": "OZ 272",
+    "airline": "Asiana Airlines",
+    "airport": { "iata": "ICN", "icao": "RKSI", "name": "Incheon International", "city": "Seoul" },
+    "scheduled": "2026-08-25T15:45:00-07:00",
+    "estimated": "2026-08-25T16:08:00-07:00",
+    "actual": null,
+    "status": "En route",
+    "terminal": "S",
+    "gate": "S16",
+    "registration": "HL7732",
+    "aircraftType": "Boeing 777-200ER"
+  }
+]

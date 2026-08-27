@@ -1,0 +1,218 @@
+:root {
+  --ink: #0a2433;
+  --ink-2: #153a45;
+  --paper: #f4f2eb;
+  --card: #fffdf8;
+  --line: #cad2cd;
+  --muted: #63727a;
+  --accent: #ed6a4c;
+  --accent-dark: #bb432e;
+  --mint: #dceee8;
+  --yellow: #f3be57;
+  --shadow: 0 16px 40px rgba(5, 28, 38, .10);
+  color-scheme: light;
+}
+
+:root.dark {
+  --ink: #edf5f0;
+  --ink-2: #d8e8e2;
+  --paper: #091c28;
+  --card: #102a37;
+  --line: #33505a;
+  --muted: #9bb0b4;
+  --mint: #173e43;
+  --shadow: 0 16px 40px rgba(0, 0, 0, .25);
+  color-scheme: dark;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: "Manrope", system-ui, sans-serif; min-width: 320px; }
+button, input { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button { color: inherit; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+.site-header { height: 72px; padding: 0 clamp(20px, 5vw, 72px); display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid rgba(255,255,255,.16); background: #081c2b; color: white; }
+.brand { display: flex; align-items: center; gap: 11px; color: white; text-decoration: none; font-weight: 800; letter-spacing: -.03em; }
+.brand-mark { width: 32px; height: 32px; border-radius: 50%; background: var(--accent); display: grid; place-items: center; }
+.brand-mark svg { width: 20px; fill: white; }
+.header-actions { display: flex; align-items: center; gap: 18px; }
+.text-button, .icon-button { border: 0; background: transparent; cursor: pointer; }
+.text-button { color: #d8e1df; font-size: 13px; display: flex; align-items: center; gap: 7px; }
+.live-dot { width: 7px; height: 7px; border-radius: 50%; background: #61d4a7; box-shadow: 0 0 0 4px rgba(97,212,167,.12); }
+.icon-button { width: 38px; height: 38px; display: grid; place-items: center; border: 1px solid rgba(255,255,255,.22); border-radius: 50%; color: white; }
+.icon-button svg { width: 18px; fill: none; stroke: currentColor; stroke-width: 1.8; }
+
+.hero { background: #081c2b; color: white; padding: 60px clamp(20px, 5vw, 72px) 72px; position: relative; overflow: hidden; }
+.hero::after { content: ""; position: absolute; width: 390px; height: 390px; border: 1px solid rgba(255,255,255,.08); border-radius: 50%; right: -100px; top: -185px; box-shadow: 0 0 0 70px rgba(255,255,255,.025), 0 0 0 140px rgba(255,255,255,.018); }
+.eyebrow { text-transform: uppercase; letter-spacing: .14em; font-size: 11px; font-weight: 700; color: #a7babd; }
+.eyebrow span { color: var(--yellow); margin-right: 8px; }
+.hero-grid { margin-top: 28px; display: grid; grid-template-columns: minmax(0, 1.2fr) minmax(380px, .8fr); gap: 80px; align-items: end; }
+h1 { font-size: clamp(54px, 7vw, 96px); line-height: .9; letter-spacing: -.07em; margin: 0; max-width: 720px; }
+h1 em { color: var(--accent); font-style: normal; }
+.hero-copy { color: #b6c5c5; line-height: 1.7; max-width: 610px; margin: 28px 0 0; font-size: 16px; }
+.hero-stats { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid rgba(255,255,255,.18); border-left: 1px solid rgba(255,255,255,.18); }
+.stat-block { padding: 22px 20px; border-right: 1px solid rgba(255,255,255,.18); border-bottom: 1px solid rgba(255,255,255,.18); }
+.stat-block strong { display: block; font-family: "DM Mono", monospace; font-weight: 500; font-size: 27px; }
+.stat-block span { color: #95aaad; font-size: 11px; text-transform: uppercase; letter-spacing: .11em; }
+
+.dashboard { padding: 32px clamp(20px, 5vw, 72px) 70px; }
+.toolbar { display: flex; justify-content: space-between; gap: 20px; align-items: center; padding-bottom: 28px; border-bottom: 1px solid var(--line); }
+.query-controls { display: flex; align-items: stretch; gap: 10px; }
+.airport-control { display: grid; align-content: center; gap: 2px; min-width: 118px; padding: 7px 12px; border: 1px solid var(--line); background: var(--card); }
+.airport-control span { color: var(--muted); font-size: 8px; font-weight: 800; letter-spacing: .1em; text-transform: uppercase; }
+.airport-control input { width: 82px; border: 0; outline: 0; padding: 0; background: transparent; color: var(--ink); font: 500 15px "DM Mono", monospace; text-transform: uppercase; }
+.date-control { display: flex; align-items: center; gap: 4px; }
+.date-arrow { width: 38px; height: 38px; border-radius: 50%; border: 1px solid var(--line); background: var(--card); cursor: pointer; }
+#dateInput { border: 0; background: transparent; color: var(--ink); font-weight: 700; padding: 8px 10px; }
+.toolbar-right { display: flex; gap: 10px; }
+.search-box { min-width: 270px; height: 42px; border: 1px solid var(--line); background: var(--card); display: flex; align-items: center; gap: 8px; padding: 0 13px; }
+.search-box svg, .refresh-button svg { width: 17px; fill: none; stroke: currentColor; stroke-width: 1.8; }
+.search-box input { min-width: 0; width: 100%; border: 0; outline: 0; background: transparent; color: var(--ink); font-size: 13px; }
+.refresh-button, .secondary-button, .primary-button { border: 1px solid var(--line); background: var(--card); padding: 0 16px; height: 42px; cursor: pointer; font-weight: 700; font-size: 12px; display: inline-flex; align-items: center; gap: 8px; }
+.refresh-button.loading svg { animation: spin .8s linear infinite; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.board-head { display: flex; justify-content: space-between; align-items: center; gap: 16px; margin: 28px 0 20px; }
+.time-filter-panel { display: grid; grid-template-columns: minmax(190px, auto) minmax(220px, 1fr) auto; gap: 22px; align-items: center; margin: 0 0 18px; padding: 15px 17px; border: 1px solid var(--line); background: color-mix(in srgb, var(--card) 78%, var(--mint)); }
+.time-filter-copy span { display: block; color: var(--muted); font-size: 8px; font-weight: 800; letter-spacing: .11em; text-transform: uppercase; margin-bottom: 4px; }
+.time-filter-copy strong { font: 500 12px "DM Mono", monospace; }
+.time-slider-shell { --range-start: 0%; --range-end: 100%; position: relative; height: 28px; background: linear-gradient(to right, var(--line) 0 var(--range-start), var(--accent) var(--range-start) var(--range-end), var(--line) var(--range-end) 100%); background-size: 100% 4px; background-position: center; background-repeat: no-repeat; }
+.time-slider-shell input { position: absolute; inset: 0; width: 100%; height: 28px; margin: 0; padding: 0; appearance: none; -webkit-appearance: none; background: transparent; pointer-events: none; }
+.time-slider-shell input::-webkit-slider-runnable-track { height: 4px; background: transparent; }
+.time-slider-shell input::-moz-range-track { height: 4px; background: transparent; }
+.time-slider-shell input::-webkit-slider-thumb { appearance: none; -webkit-appearance: none; width: 18px; height: 18px; margin-top: -7px; border: 3px solid var(--card); border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 1px var(--accent-dark); cursor: grab; pointer-events: auto; }
+.time-slider-shell input::-moz-range-thumb { width: 14px; height: 14px; border: 3px solid var(--card); border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 1px var(--accent-dark); cursor: grab; pointer-events: auto; }
+.time-reset { border: 0; background: transparent; color: var(--accent-dark); padding: 8px; font-size: 10px; font-weight: 800; text-transform: uppercase; letter-spacing: .08em; cursor: pointer; }
+.tabs { display: flex; gap: 6px; }
+.tab { border: 0; background: transparent; color: var(--muted); padding: 9px 12px; cursor: pointer; font-weight: 700; font-size: 13px; }
+.tab span { display: inline-grid; place-items: center; min-width: 22px; height: 22px; padding: 0 6px; margin-left: 5px; border-radius: 12px; background: var(--mint); color: var(--ink-2); font-family: "DM Mono", monospace; font-size: 11px; }
+.tab.active { color: var(--ink); border-bottom: 2px solid var(--accent); }
+.export-actions { display: flex; gap: 8px; }
+.primary-button { background: var(--accent); color: white; border-color: var(--accent); }
+.primary-button:hover { background: var(--accent-dark); }
+.data-note { min-height: 22px; font-size: 12px; color: var(--muted); margin-bottom: 10px; }
+.data-note strong { color: var(--ink); }
+.data-note .demo-badge { display: inline-block; padding: 3px 7px; margin-right: 7px; background: var(--yellow); color: #382908; font-weight: 800; letter-spacing: .06em; text-transform: uppercase; font-size: 9px; }
+
+.flight-list { display: grid; gap: 16px; }
+.flight-card { display: grid; grid-template-columns: minmax(250px, 31%) 1fr; background: var(--card); border: 1px solid var(--line); min-height: 330px; box-shadow: var(--shadow); }
+.photo-panel { min-height: 330px; position: relative; overflow: hidden; background: var(--mint); }
+.aircraft-photo, .photo-fallback, .photo-fallback img { width: 100%; height: 100%; object-fit: cover; position: absolute; inset: 0; }
+.photo-panel.has-photo .photo-fallback { display: none; }
+.photo-credit { position: absolute; bottom: 10px; left: 12px; color: white; background: rgba(5,25,32,.75); padding: 4px 7px; font-size: 9px; text-decoration: none; display: none; }
+.photo-panel.has-photo .photo-credit { display: block; }
+.photo-registration { position: absolute; right: 0; top: 0; background: var(--yellow); color: #17232a; padding: 9px 12px; font: 500 12px "DM Mono", monospace; letter-spacing: .08em; }
+.card-body { padding: 27px 30px 20px; min-width: 0; }
+.card-heading { display: flex; justify-content: space-between; gap: 20px; }
+.category-pill { display: inline-block; text-transform: uppercase; color: var(--accent-dark); font-size: 9px; letter-spacing: .13em; font-weight: 800; margin-bottom: 7px; }
+.livery-name { margin: 0; letter-spacing: -.04em; font-size: clamp(25px, 3vw, 38px); line-height: 1; }
+.aircraft-name { color: var(--muted); font-size: 12px; margin: 8px 0 0; }
+.flight-identity { text-align: right; }
+.flight-identity strong { display: block; font: 500 22px "DM Mono", monospace; }
+.flight-identity span { color: var(--muted); font-size: 11px; }
+.route-row { display: grid; grid-template-columns: 95px 1fr 95px; gap: 18px; align-items: center; padding: 23px 0; margin-top: 8px; }
+.route-row strong { display: block; font: 500 24px "DM Mono", monospace; }
+.route-row small { display: block; color: var(--muted); font-size: 10px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.route-label, .selected-airport-code span { color: var(--muted); font-size: 9px; text-transform: uppercase; letter-spacing: .1em; }
+.selected-airport-code { text-align: right; }
+.route-line { display: flex; align-items: center; color: var(--accent); }
+.route-line span { flex: 1; height: 1px; background: var(--line); position: relative; }
+.route-line span:first-child::before, .route-line span:last-child::after { content: ""; position: absolute; width: 5px; height: 5px; border-radius: 50%; background: var(--line); top: -2px; }
+.route-line span:first-child::before { left: 0; }
+.route-line span:last-child::after { right: 0; }
+.route-line svg { width: 25px; margin: 0 9px; fill: currentColor; }
+.flight-card[data-direction="departure"] .route-line svg { transform: rotate(180deg); }
+.timing-grid { display: grid; grid-template-columns: 1fr 1fr 1.3fr .7fr; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.timing-grid > div { padding: 15px 12px 15px 0; }
+.timing-grid span { display: block; color: var(--muted); text-transform: uppercase; letter-spacing: .1em; font-size: 8px; margin-bottom: 5px; }
+.timing-grid strong { font: 500 14px "DM Mono", monospace; }
+.status-pill { display: inline-block; color: #196c52; }
+.status-pill.delayed { color: var(--accent-dark); }
+details { padding-top: 15px; font-size: 11px; color: var(--muted); }
+summary { list-style: none; cursor: pointer; text-transform: uppercase; letter-spacing: .1em; font-weight: 800; color: var(--ink); font-size: 9px; display: flex; justify-content: space-between; }
+summary::-webkit-details-marker { display: none; }
+details[open] summary span { transform: rotate(45deg); }
+.livery-note { line-height: 1.6; margin-bottom: 6px; }
+.source-link { color: var(--accent-dark); font-weight: 700; }
+
+.empty-state { text-align: center; padding: 80px 20px; border: 1px dashed var(--line); }
+.empty-state h2 { margin: 10px 0 5px; }
+.empty-state p { color: var(--muted); font-size: 13px; }
+.empty-plane { font-size: 30px; color: var(--accent); }
+
+.method-section { padding: 70px clamp(20px, 5vw, 72px); background: var(--mint); display: grid; grid-template-columns: .6fr 1.4fr; gap: 70px; }
+.section-number { font: 500 11px "DM Mono", monospace; color: var(--accent-dark); }
+.method-section h2 { font-size: clamp(35px, 5vw, 58px); letter-spacing: -.06em; line-height: 1; margin: 12px 0; }
+.method-copy > p { font-size: 17px; line-height: 1.7; max-width: 720px; margin-top: 0; }
+.method-steps { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 30px; font: 500 11px "DM Mono", monospace; text-transform: uppercase; }
+.method-steps span { background: var(--card); border: 1px solid var(--line); padding: 10px 12px; }
+.method-steps b { color: var(--accent); }
+footer { padding: 35px clamp(20px, 5vw, 72px); background: #081c2b; color: white; display: flex; align-items: center; justify-content: space-between; gap: 30px; }
+footer div { display: flex; align-items: center; gap: 16px; }
+footer span, footer p { color: #91a7ab; font-size: 10px; }
+
+dialog { width: min(720px, calc(100% - 30px)); max-height: 82vh; border: 0; padding: 28px; background: var(--card); color: var(--ink); box-shadow: 0 24px 80px rgba(0,0,0,.35); }
+dialog::backdrop { background: rgba(2,18,26,.72); backdrop-filter: blur(3px); }
+.dialog-head { display: flex; justify-content: space-between; align-items: start; }
+.dialog-head h2 { margin: 7px 0 0; font-size: 38px; letter-spacing: -.05em; }
+.dialog-head .icon-button { color: var(--ink); border-color: var(--line); font-size: 22px; }
+.dialog-intro { color: var(--muted); line-height: 1.6; font-size: 13px; }
+code { font-family: "DM Mono", monospace; background: var(--mint); padding: 2px 4px; }
+.registry-list { display: grid; gap: 8px; margin-top: 20px; }
+.registry-item { display: grid; grid-template-columns: 85px 1fr auto; gap: 15px; align-items: center; border-top: 1px solid var(--line); padding: 14px 0; }
+.registry-item strong:first-child { font-family: "DM Mono", monospace; }
+.registry-item span { display: block; color: var(--muted); font-size: 11px; }
+.registry-item a { color: var(--accent-dark); font-size: 11px; font-weight: 700; }
+.toast { position: fixed; z-index: 10; bottom: 24px; left: 50%; transform: translate(-50%, 20px); background: #081c2b; color: white; padding: 11px 18px; box-shadow: var(--shadow); font-size: 12px; opacity: 0; pointer-events: none; transition: .2s ease; }
+.toast.show { opacity: 1; transform: translate(-50%, 0); }
+
+@media (max-width: 880px) {
+  .hero-grid { grid-template-columns: 1fr; gap: 45px; }
+  .toolbar, .board-head { align-items: stretch; flex-direction: column; }
+  .toolbar-right, .search-box { width: 100%; }
+  .search-box { flex: 1; min-width: 0; }
+  .board-head { gap: 20px; }
+  .time-filter-panel { grid-template-columns: 1fr auto; }
+  .time-slider-shell { grid-column: 1 / -1; grid-row: 2; }
+  .export-actions { align-self: flex-end; }
+  .flight-card { grid-template-columns: 1fr; }
+  .photo-panel { min-height: 260px; }
+  .method-section { grid-template-columns: 1fr; gap: 24px; }
+}
+
+@media (max-width: 560px) {
+  .site-header { height: 62px; }
+  .text-button { font-size: 0; }
+  .text-button span { font-size: 11px; }
+  .hero { padding-top: 42px; padding-bottom: 50px; }
+  h1 { font-size: 58px; }
+  .hero-stats { grid-template-columns: 1fr 1fr; }
+  .stat-block { padding: 17px 12px; }
+  .stat-block strong { font-size: 21px; }
+  .toolbar-right { flex-wrap: wrap; }
+  .query-controls { width: 100%; }
+  .airport-control { flex: 1; }
+  .search-box { flex-basis: 100%; }
+  .tabs { overflow-x: auto; }
+  .time-filter-panel { grid-template-columns: 1fr; gap: 10px; }
+  .time-slider-shell { grid-column: auto; grid-row: auto; }
+  .time-reset { justify-self: start; padding-left: 0; }
+  .tab { white-space: nowrap; padding-inline: 8px; }
+  .export-actions { width: 100%; }
+  .export-actions button { flex: 1; justify-content: center; padding-inline: 8px; }
+  .photo-panel { min-height: 220px; }
+  .card-body { padding: 22px 18px 15px; }
+  .card-heading { flex-direction: column; gap: 12px; }
+  .flight-identity { text-align: left; display: flex; gap: 10px; align-items: baseline; }
+  .route-row { grid-template-columns: 72px 1fr 72px; gap: 8px; }
+  .route-line svg { margin: 0 3px; }
+  .timing-grid { grid-template-columns: 1fr 1fr; }
+  footer { flex-direction: column; align-items: flex-start; }
+  footer div { flex-direction: column; align-items: flex-start; gap: 3px; }
+  .registry-item { grid-template-columns: 78px 1fr; }
+  .registry-item a { grid-column: 2; }
+}
+
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; animation: none !important; } }

@@ -1,0 +1,12 @@
+# Local environment files may contain API keys.
+.env
+.env.*
+!.env.example
+
+# Common local private-key formats.
+*.key
+*.pem
+
+.DS_Store
+generated/
+node_modules/

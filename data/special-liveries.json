@@ -1,0 +1,1342 @@
+[
+  {
+    "registration": "N985AK",
+    "name": "We Are Seattle",
+    "airline": "Alaska Airlines",
+    "aircraftType": "Boeing 737-9 MAX",
+    "category": "Event",
+    "colors": ["#0b2341", "#2f74ff"],
+    "verifiedOn": "2026-06-10",
+    "sourceUrl": "https://news.alaskaair.com/company/seattle-fifa-world-cup-2026-local-organizing-committee-livery/",
+    "note": "Seattle World Cup 2026 host-city livery with a whale-tail graphic. SEA-based narrowbody retained alongside the widebody watchlist."
+  },
+  {
+    "registration": "N659QX",
+    "name": "To 45 and Beyond",
+    "airline": "Horizon Air",
+    "aircraftType": "Embraer 175",
+    "category": "Disney",
+    "colors": ["#5cc7f2", "#f4c846"],
+    "verifiedOn": "2026-05-29",
+    "sourceUrl": "https://news.alaskaair.com/company/alaska-airlines-new-toy-story-5-livery-horizon-air/",
+    "note": "Toy Story 5 artwork celebrating Horizon Air's 45th anniversary. SEA-based regional aircraft retained alongside the widebody watchlist."
+  },
+  {
+    "registration": "N227HA",
+    "name": "Moana",
+    "airline": "Hawaiian Airlines",
+    "aircraftType": "Airbus A321neo",
+    "category": "Disney",
+    "colors": ["#732a55", "#e7a14c"],
+    "verifiedOn": "2026-06-11",
+    "sourceUrl": "https://news.alaskaair.com/company/three-new-hawaiian-airlines-liveries-set-sail-this-summer-for-disneys-live-action-moana/",
+    "note": "Live-action Moana commemorative livery for West Coast flying."
+  },
+  {
+    "registration": "N381HA",
+    "name": "Disney's Moana",
+    "airline": "Hawaiian Airlines",
+    "aircraftType": "Airbus A330-200",
+    "category": "Disney",
+    "colors": ["#6e2555", "#e9a548"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://news.alaskaair.com/company/three-new-hawaiian-airlines-liveries-set-sail-this-summer-for-disneys-live-action-moana/",
+    "note": "Widebody Moana special; this registration was observed operating Hawaiian service at SEA in July 2026."
+  },
+  {
+    "registration": "N411DX",
+    "name": "Team USA",
+    "airline": "Delta Air Lines",
+    "aircraftType": "Airbus A330-900neo",
+    "category": "Sports",
+    "colors": ["#071d49", "#d71920"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://news.delta.com/mediakit/team-usa-livery",
+    "note": "Delta Ship 3411 in the long-lived Team USA livery. The A330-900neo is a regular Delta long-haul type at SEA."
+  },
+  {
+    "registration": "N522DZ",
+    "name": "LA28 Olympic and Paralympic Games",
+    "airline": "Delta Air Lines",
+    "aircraftType": "Airbus A350-900",
+    "category": "Sports",
+    "colors": ["#151f6d", "#ef3e7b"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://news.delta.com/delta-celebrates-team-usa-and-return-olympic-games-us-featuring-its-la28-livery",
+    "note": "LA28 commemorative A350. Delta's A350 operates long-haul flying from SEA and can appear on international routes."
+  },
+  {
+    "registration": "N527DN",
+    "name": "100 Years",
+    "airline": "Delta Air Lines",
+    "aircraftType": "Airbus A350-900",
+    "category": "Centennial",
+    "colors": ["#071d49", "#c8102e"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://news.delta.com/mediakit/deltas-centennial",
+    "note": "Delta Centennial special livery on an A350 used for long-haul flying."
+  },
+  {
+    "registration": "N589DT",
+    "name": "100 Years",
+    "airline": "Delta Air Lines",
+    "aircraftType": "Airbus A321neo",
+    "category": "Centennial",
+    "colors": ["#071d49", "#c8102e"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://news.delta.com/mediakit/deltas-centennial",
+    "note": "Delta Centennial narrowbody retained because it was explicitly requested and can operate at SEA."
+  },
+  {
+    "registration": "JA894A",
+    "name": "Pikachu Jet NH",
+    "airline": "All Nippon Airways",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Pokemon",
+    "colors": ["#f8dd22", "#5ca9dd"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.ana.co.jp/en/jp/international/theme/pikachujet/",
+    "note": "International-route Pokemon special on the same 787-9 family ANA uses for SEA."
+  },
+  {
+    "registration": "JA871A",
+    "name": "ANA Future Promise",
+    "airline": "All Nippon Airways",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Sustainability",
+    "colors": ["#1b6655", "#4db490"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.anahd.co.jp/group/en/pr/pdf/20221003.pdf",
+    "note": "Green Jet sustainability livery on the 787-9 family used for SEA."
+  },
+  {
+    "registration": "JA872A",
+    "name": "Star Alliance",
+    "airline": "All Nippon Airways",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Alliance",
+    "colors": ["#111111", "#eeeeeb"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/country/operators/Japan?p=6",
+    "note": "Active ANA Star Alliance 787-9; exact aircraft family used on SEA service."
+  },
+  {
+    "registration": "JA875A",
+    "name": "Star Alliance",
+    "airline": "All Nippon Airways",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Alliance",
+    "colors": ["#111111", "#eeeeeb"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/country/operators/Japan?p=6",
+    "note": "Active ANA Star Alliance 787-9; exact aircraft family used on SEA service."
+  },
+  {
+    "registration": "JA880A",
+    "name": "Star Alliance",
+    "airline": "All Nippon Airways",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Alliance",
+    "colors": ["#111111", "#eeeeeb"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.airhistory.net/operators/8/All-Nippon-Airways-ANA-Air-Japan",
+    "note": "ANA Star Alliance 787-9 photographed in the special scheme in July 2026."
+  },
+  {
+    "registration": "JA899A",
+    "name": "Star Alliance",
+    "airline": "All Nippon Airways",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Alliance",
+    "colors": ["#111111", "#eeeeeb"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://es.flightaware.com/photos/view/777395-eb8380ba760aa561ff409291e77368d5a735bbde/all/sort/date/page/1",
+    "note": "ANA Star Alliance 787-9 photographed in the special scheme in July 2026."
+  },
+  {
+    "registration": "JA882A",
+    "name": "ANA's 50th 787",
+    "airline": "All Nippon Airways",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Milestone",
+    "colors": ["#164194", "#d9e4ef"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.jetphotos.com/photo/12002451",
+    "note": "ANA's 50th-delivered 787 logo aircraft; photographed at SEA in its current markings."
+  },
+  {
+    "registration": "HL7732",
+    "name": "Star Alliance",
+    "airline": "Asiana Airlines",
+    "aircraftType": "Boeing 777-200ER",
+    "category": "Alliance",
+    "colors": ["#23272f", "#eeeeeb"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/HL7732",
+    "note": "Star Alliance special colors on the 777 family used by Asiana at SEA; shown in the supplied KSEA reference screenshot."
+  },
+  {
+    "registration": "B-LRJ",
+    "name": "80 Years - Lettuce Leaf Sandwich",
+    "airline": "Cathay Pacific",
+    "aircraftType": "Airbus A350-900",
+    "category": "Retro",
+    "colors": ["#0f6f68", "#c9d1bc"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://news.cathaypacific.com/cathay-s-iconic-lettuce-leaf-sandwich-livery-lands-in-singapore-for-the-first-time-td9462",
+    "note": "Cathay's 80th-anniversary retro livery, scheduled across its international network during 2026; exact A350 family used at SEA."
+  },
+  {
+    "registration": "B-18916",
+    "name": "Pikachu Jet CI 2",
+    "airline": "China Airlines",
+    "aircraftType": "Airbus A350-900",
+    "category": "Pokemon",
+    "colors": ["#aa78c4", "#f2df31"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.china-airlines.com/de/en/about-china-airlines/media/news/20260312.html",
+    "note": "Pokemon special introduced for Taipei-Seattle and Taipei-Narita service; exact SEA route match."
+  },
+  {
+    "registration": "B-18918",
+    "name": "Carbon Fiber",
+    "airline": "China Airlines",
+    "aircraftType": "Airbus A350-900",
+    "category": "Manufacturer",
+    "colors": ["#402a72", "#4d94d3"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/airframe/airbus-a350-900-b-18918-china-airlines/epwkx7",
+    "note": "Airbus/China Airlines carbon-fiber demonstrator livery on the A350 family used at SEA."
+  },
+  {
+    "registration": "B-16722",
+    "name": "Besties Jet",
+    "airline": "EVA Air",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Sanrio",
+    "colors": ["#72c7d8", "#ec8db5"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.evaair.com/en-global/fly-prepare/our-fleets/eva-special-livery-jets/",
+    "note": "Sanrio Besties Jet; exact 777-300ER family used for EVA's SEA service."
+  },
+  {
+    "registration": "B-16740",
+    "name": "Lolly Jet",
+    "airline": "EVA Air",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Sanrio",
+    "colors": ["#eab7d8", "#7ac5d8"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.evaair.com/en-global/fly-prepare/our-fleets/eva-special-livery-jets/",
+    "note": "Sanrio Lolly Jet; exact 777-300ER family used for EVA's SEA service."
+  },
+  {
+    "registration": "B-1540",
+    "name": "Hainan Free Trade Port",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Destination",
+    "colors": ["#b21d2c", "#e4b641"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-787-9-b-1540-hainan-airlines/r6kpjg",
+    "note": "Active Hainan Free Trade Port special on the 787-9 family Hainan uses to SEA."
+  },
+  {
+    "registration": "B-7302",
+    "name": "Yellow - former Kung Fu Panda",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Special Colors",
+    "colors": ["#f1bf28", "#a7192d"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/B-7302",
+    "note": "Active yellow special base after removal of the former Kung Fu Panda decals; same 787-9 family used to SEA."
+  },
+  {
+    "registration": "B-6998",
+    "name": "All Red - former Kung Fu Panda",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Special Colors",
+    "colors": ["#a91423", "#e3b337"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photo/1722935/b-6998-hainan-airlines-boeing-787-9-dreamliner",
+    "note": "Active all-red special base after removal of the former Kung Fu Panda decals; this aircraft has operated SEA service."
+  },
+  {
+    "registration": "B-1343",
+    "name": "5-Star Airlines",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Award",
+    "colors": ["#c89c2d", "#8c1628"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-787-9-b-1343-hainan-airlines/ellpp5",
+    "note": "Gold Skytrax 5-Star special colors on the 787-9 family Hainan uses to SEA."
+  },
+  {
+    "registration": "B-1499",
+    "name": "IHG Hotels & Resorts",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Partnership",
+    "colors": ["#0a5b62", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-787-9-b-1499-hainan-airlines/r7w269",
+    "note": "Active full-body IHG Hotels & Resorts livery on the 787-9 family Hainan uses for long-haul service and could assign to SEA."
+  },
+  {
+    "registration": "B-6520",
+    "name": "Sanya 2026 Asian Beach Games",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Airbus A330-300",
+    "category": "Sports",
+    "colors": ["#1769aa", "#d6a94d"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.jetphotos.com/photo/11969911",
+    "note": "Active Sixth Asian Beach Games Sanya 2026 full-body livery; a widebody special, though Hainan normally favors the 787 family for SEA."
+  },
+  {
+    "registration": "B-1130",
+    "name": "Sanya 2026 Asian Beach Games",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Boeing 737-800",
+    "category": "Sports",
+    "colors": ["#1769aa", "#d6a94d"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-737-800-b-1130-hainan-airlines/34wpm5",
+    "note": "Active Asian Beach Games sticker aircraft; included for complete multi-airport Hainan coverage but not capable of Hainan's nonstop SEA route."
+  },
+  {
+    "registration": "B-1131",
+    "name": "Mixue Snow King",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Boeing 737-800",
+    "category": "Brand Partnership",
+    "colors": ["#d71920", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/B-1131",
+    "note": "One of two active Mixue Snow King themed 737-800s; included for multi-airport coverage but not a SEA nonstop aircraft."
+  },
+  {
+    "registration": "B-1141",
+    "name": "Mixue Snow King",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Boeing 737-800",
+    "category": "Brand Partnership",
+    "colors": ["#d71920", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.jetphotos.com/photo/11863861",
+    "note": "One of two active Mixue Snow King themed 737-800s; included for multi-airport coverage but not a SEA nonstop aircraft."
+  },
+  {
+    "registration": "B-6063",
+    "name": "Hainan Free Trade Port",
+    "airline": "Hainan Airlines",
+    "aircraftType": "Boeing 737-800",
+    "category": "Destination",
+    "colors": ["#b21d2c", "#e4b641"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.caac.gov.cn/PHONE/GLJ_PHONE/ZNGLJ/ZN_XXGK/ZN_HYDT/202008/t20200818_204090.html",
+    "note": "The 737 companion to B-1540 in Hainan Free Trade Port colors; included for complete multi-airport coverage but not a SEA nonstop aircraft."
+  },
+  {
+    "registration": "JA868J",
+    "name": "CONTRAIL",
+    "airline": "Japan Airlines",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Sustainability",
+    "colors": ["#c41e3a", "#4da0c8"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://press.jal.co.jp/en/release/202512/009172.html",
+    "note": "International CON TRails aircraft observations project livery; the 787-9 is a normal JAL SEA type."
+  },
+  {
+    "registration": "RP-C3510",
+    "name": "85th Anniversary",
+    "airline": "Philippine Airlines",
+    "aircraftType": "Airbus A350-1000",
+    "category": "Anniversary",
+    "colors": ["#003f87", "#d42027"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/airframe/airbus-a350-1000-rp-c3510-philippine-airlines/3wpzgq",
+    "note": "PAL 85th-anniversary markings on its new North America widebody; possible SEA substitution for the usual 777."
+  },
+  {
+    "registration": "9V-SMF",
+    "name": "10,000th Airbus Aircraft",
+    "airline": "Singapore Airlines",
+    "aircraftType": "Airbus A350-900",
+    "category": "Milestone",
+    "colors": ["#172c5b", "#d5a842"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/9V-SMF",
+    "note": "Airbus 10,000th-aircraft milestone markings on the A350 family Singapore Airlines uses to SEA."
+  },
+  {
+    "registration": "B-58551",
+    "name": "Carbon Fiber",
+    "airline": "STARLUX Airlines",
+    "aircraftType": "Airbus A350-1000",
+    "category": "Manufacturer",
+    "colors": ["#36383b", "#b89554"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.starlux-airlines.com/ja-JP/about-us/media-center/news/2026/202601062",
+    "note": "Active carbon-fiber special on STARLUX's first A350-1000; possible SEA substitution for the normal A350-900."
+  },
+  {
+    "registration": "B-58553",
+    "name": "AIRSORAYAMA Silver",
+    "airline": "STARLUX Airlines",
+    "aircraftType": "Airbus A350-1000",
+    "category": "Art",
+    "colors": ["#aeb5ba", "#34383c"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://media.starlux-airlines.com/airsorayama/en/index.html",
+    "note": "Hajime Sorayama silver art livery; possible SEA substitution for the normal STARLUX A350-900."
+  },
+  {
+    "registration": "B-58554",
+    "name": "AIRSORAYAMA Gold",
+    "airline": "STARLUX Airlines",
+    "aircraftType": "Airbus A350-1000",
+    "category": "Art",
+    "colors": ["#c7a95b", "#453c2e"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://media.starlux-airlines.com/airsorayama/en/index.html",
+    "note": "Hajime Sorayama gold art livery delivered in August 2026; possible SEA substitution for the normal STARLUX A350-900."
+  },
+  {
+    "registration": "G-YMME",
+    "name": "oneworld",
+    "airline": "British Airways",
+    "aircraftType": "Boeing 777-200ER",
+    "category": "Alliance",
+    "colors": ["#123b70", "#d9e4ed"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-777-200-g-ymme-british-airways/e92z53",
+    "note": "Active oneworld special colors on a British Airways 777, a regular SEA route family."
+  },
+  {
+    "registration": "G-YMMF",
+    "name": "oneworld",
+    "airline": "British Airways",
+    "aircraftType": "Boeing 777-200ER",
+    "category": "Alliance",
+    "colors": ["#123b70", "#d9e4ed"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/aircraft/search?dir=desc&fleet=British-Airways&fleetStatus=current&manufacturer=Boeing&sort=dd&subtype=777-200",
+    "note": "Active oneworld special colors on a British Airways 777, a regular SEA route family."
+  },
+  {
+    "registration": "G-YMMT",
+    "name": "oneworld",
+    "airline": "British Airways",
+    "aircraftType": "Boeing 777-200ER",
+    "category": "Alliance",
+    "colors": ["#123b70", "#d9e4ed"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-777-200-g-ymmt-british-airways/rzw209",
+    "note": "Active oneworld special colors on a British Airways 777, a regular SEA route family."
+  },
+  {
+    "registration": "G-YMMU",
+    "name": "oneworld",
+    "airline": "British Airways",
+    "aircraftType": "Boeing 777-200ER",
+    "category": "Alliance",
+    "colors": ["#123b70", "#d9e4ed"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-777-200-g-ymmu-british-airways/r116j6",
+    "note": "Active oneworld special colors on a British Airways 777, a regular SEA route family."
+  },
+  {
+    "registration": "OH-LWL",
+    "name": "Marimekko Kivet",
+    "airline": "Finnair",
+    "aircraftType": "Airbus A350-900",
+    "category": "Art",
+    "colors": ["#1b2754", "#d9d8d2"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/photo/1936917/oh-lwl-finnair-airbus-a350-941",
+    "note": "Marimekko Kivet design on Finnair's standard SEA A350 family."
+  },
+  {
+    "registration": "OH-LWA",
+    "name": "Santa Claus - The Official Airline of Santa Claus",
+    "airline": "Finnair",
+    "aircraftType": "Airbus A350-900",
+    "category": "Holiday",
+    "colors": ["#c8102e", "#12295a"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.finnair.com/au-en/bluewings/world-of-finnair/this-is-how-you-get-into-the-christmas-spirit-on-our-flights-3700514",
+    "note": "Santa Claus special markings on Finnair's standard SEA A350 family."
+  },
+  {
+    "registration": "D-ABPU",
+    "name": "100 Years - XXL Crane",
+    "airline": "Lufthansa",
+    "aircraftType": "Boeing 787-9 Dreamliner",
+    "category": "Centennial",
+    "colors": ["#071e49", "#f9b700"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://newsroom.lufthansagroup.com/en/lufthansa-special-livery-to-mark-centennial-anniversary/",
+    "note": "Lufthansa centennial flagship paint; the 787-9 is a current SEA route type."
+  },
+  {
+    "registration": "D-AIXL",
+    "name": "100 Years - XXL Crane",
+    "airline": "Lufthansa",
+    "aircraftType": "Airbus A350-900",
+    "category": "Centennial",
+    "colors": ["#071e49", "#f9b700"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://newsroom.lufthansagroup.com/en/lufthansa-anniversary-fleet-grows-now-also-includes-a320-and-a350-with-xxl-crane/",
+    "note": "Lufthansa centennial paint on an A350-900, a type used on SEA service."
+  },
+  {
+    "registration": "D-AIMH",
+    "name": "100 Years - XXL Crane",
+    "airline": "Lufthansa",
+    "aircraftType": "Airbus A380-800",
+    "category": "Centennial",
+    "colors": ["#071e49", "#f9b700"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://newsroom.lufthansagroup.com/lufthansa-a380-jetzt-mit-xxl-kranich/",
+    "note": "Lufthansa centennial A380. Included as a rare-event watch; the A380 is not Lufthansa's normal SEA equipment."
+  },
+  {
+    "registration": "D-ABYN",
+    "name": "100 Years - XXL Crane",
+    "airline": "Lufthansa",
+    "aircraftType": "Boeing 747-8 Intercontinental",
+    "category": "Centennial",
+    "colors": ["#071e49", "#f9b700"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://newsroom.lufthansagroup.com/en/queen-of-the-skies-now-also-features-xxl-crane-for-100th-founding-anniversary/",
+    "note": "Lufthansa centennial 747-8. Included as a rare-event watch; the 747 is not Lufthansa's normal SEA equipment."
+  },
+  {
+    "registration": "D-AIFA",
+    "name": "100 Years - XXL Crane",
+    "airline": "Lufthansa",
+    "aircraftType": "Airbus A350-1000",
+    "category": "Centennial",
+    "colors": ["#071e49", "#f9b700"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://newsroom.lufthansagroup.com/en/lufthansas-first-airbus-a350-1000-arrives-with-a-special-livery/",
+    "note": "Painted Lufthansa centennial A350-1000 scheduled to join the fleet in fall 2026; preloaded for future SEA substitution detection."
+  },
+  {
+    "registration": "LN-RKR",
+    "name": "80 Years",
+    "airline": "Scandinavian Airlines",
+    "aircraftType": "Airbus A330-300",
+    "category": "Anniversary",
+    "colors": ["#162a71", "#bd2439"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.flightradar24.com/blog/aviation-news/airline-news/sas-80th-anniversary-livery/",
+    "note": "SAS 80th-anniversary retro-inspired widebody; possible substitution for the A350 normally used to SEA."
+  },
+  {
+    "registration": "TC-LGH",
+    "name": "Tek Yurek - 400th Aircraft",
+    "airline": "Turkish Airlines",
+    "aircraftType": "Airbus A350-900",
+    "category": "Milestone",
+    "colors": ["#c8102e", "#d9d9d6"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/TC-LGH",
+    "note": "One Heart/Tek Yurek 400th-aircraft markings on the A350 family Turkish uses at SEA."
+  },
+  {
+    "registration": "TC-LHH",
+    "name": "TK Family - 500th Aircraft",
+    "airline": "Turkish Airlines",
+    "aircraftType": "Airbus A350-900",
+    "category": "Milestone",
+    "colors": ["#c8102e", "#5c6670"],
+    "verifiedOn": "2026-08-25",
+    "sourceUrl": "https://www.airhistory.net/registration/TC-LHH",
+    "note": "Employee-photo mosaic celebrating Turkish Airlines' 500th aircraft; exact A350 family used at SEA."
+  },
+  {
+    "registration": "A7-BEK",
+    "name": "Paris Saint-Germain",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Sports",
+    "colors": ["#003b7a", "#d71920"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.jetphotos.com/photo/12032805",
+    "note": "Active Paris Saint-Germain branded 777-300ER and a direct match for the requested PSG livery; this aircraft type regularly operates Qatar's SEA service."
+  },
+  {
+    "registration": "A7-BED",
+    "name": "UEFA Champions League - PSG Champions",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Sports",
+    "colors": ["#173b73", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.jetphotos.com/photo/11741130",
+    "note": "Separate UEFA Champions League livery used to carry Paris Saint-Germain after its 2025 title; SEA-compatible 777-300ER."
+  },
+  {
+    "registration": "A7-ALZ",
+    "name": "oneworld",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A350-900",
+    "category": "Alliance",
+    "colors": ["#1f5b77", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/airframe/airbus-a350-900-a7-alz-qatar-airways/r1p9g1",
+    "note": "Active oneworld alliance colors on a Qatar A350-900; a long-haul type capable of substituting onto SEA."
+  },
+  {
+    "registration": "A7-ANE",
+    "name": "oneworld",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A350-1000",
+    "category": "Alliance",
+    "colors": ["#1f5b77", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-ANE",
+    "note": "Active oneworld alliance colors on a Qatar A350-1000; a long-haul type capable of substituting onto SEA."
+  },
+  {
+    "registration": "A7-BAA",
+    "name": "oneworld",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Alliance",
+    "colors": ["#1f5b77", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BAA",
+    "note": "Active oneworld alliance 777-300ER in the exact family Qatar regularly uses at SEA."
+  },
+  {
+    "registration": "A7-BAB",
+    "name": "oneworld",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Alliance",
+    "colors": ["#1f5b77", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BAB",
+    "note": "Active oneworld alliance 777-300ER in the exact family Qatar regularly uses at SEA."
+  },
+  {
+    "registration": "A7-BAF",
+    "name": "oneworld",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Alliance",
+    "colors": ["#1f5b77", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BAF",
+    "note": "Active oneworld alliance 777-300ER in the exact family Qatar regularly uses at SEA."
+  },
+  {
+    "registration": "A7-BAG",
+    "name": "oneworld",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Alliance",
+    "colors": ["#1f5b77", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BAG",
+    "note": "Active oneworld alliance 777-300ER in the exact family Qatar regularly uses at SEA."
+  },
+  {
+    "registration": "A7-BOC",
+    "name": "25th Anniversary Retro",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Retro",
+    "colors": ["#6f123c", "#c6a46a"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-777-300er-a7-boc-qatar-airways/rzwp4l",
+    "note": "Second active Qatar retro 777-300ER, complementing A7-BAC; SEA-compatible aircraft family."
+  },
+  {
+    "registration": "A7-BEE",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photo/1951610/a7-bee-qatar-airways-boeing-777-3dzer",
+    "note": "Active 25 Years of Excellence anniversary markings on a SEA-compatible 777-300ER."
+  },
+  {
+    "registration": "A7-BOG",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-777-300er-a7-bog-qatar-airways/e24poq",
+    "note": "Active 25 Years of Excellence anniversary markings on a SEA-compatible 777-300ER."
+  },
+  {
+    "registration": "A7-BOH",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BOH",
+    "note": "Active 25 Years of Excellence anniversary markings on a SEA-compatible 777-300ER."
+  },
+  {
+    "registration": "A7-BOI",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BOI",
+    "note": "Active 25 Years of Excellence anniversary markings on a SEA-compatible 777-300ER."
+  },
+  {
+    "registration": "A7-BCW",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 787-8 Dreamliner",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-787-8-a7-bcw-qatar-airways/r1mqg2",
+    "note": "Active 25 Years of Excellence markings on a Qatar widebody; not the normal SEA type but operationally capable."
+  },
+  {
+    "registration": "A7-BCX",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 787-8 Dreamliner",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BCX",
+    "note": "Active 25 Years of Excellence markings on a Qatar widebody; not the normal SEA type but operationally capable."
+  },
+  {
+    "registration": "A7-BCY",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 787-8 Dreamliner",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BCY",
+    "note": "Active 25 Years of Excellence markings on a Qatar widebody; not the normal SEA type but operationally capable."
+  },
+  {
+    "registration": "A7-BCZ",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 787-8 Dreamliner",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BCZ",
+    "note": "Active 25 Years of Excellence markings on a Qatar widebody; not the normal SEA type but operationally capable."
+  },
+  {
+    "registration": "A7-BDA",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 787-8 Dreamliner",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BDA",
+    "note": "Active 25 Years of Excellence markings on a Qatar widebody; not the normal SEA type but operationally capable."
+  },
+  {
+    "registration": "A7-AHG",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A320-200",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-AHG",
+    "note": "Active anniversary-marked A320; included for complete multi-airport Qatar coverage but cannot operate the nonstop SEA route."
+  },
+  {
+    "registration": "A7-AHH",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A320-200",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-AHH",
+    "note": "Active anniversary-marked A320; included for complete multi-airport Qatar coverage but cannot operate the nonstop SEA route."
+  },
+  {
+    "registration": "A7-AHT",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A320-200",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-AHT",
+    "note": "Active anniversary-marked A320; included for complete multi-airport Qatar coverage but cannot operate the nonstop SEA route."
+  },
+  {
+    "registration": "A7-LAB",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A320-200",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-LAB",
+    "note": "Active anniversary-marked A320; included for complete multi-airport Qatar coverage but cannot operate the nonstop SEA route."
+  },
+  {
+    "registration": "A7-LAC",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A320-200",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-LAC",
+    "note": "Active anniversary-marked A320; included for complete multi-airport Qatar coverage but cannot operate the nonstop SEA route."
+  },
+  {
+    "registration": "A7-LAD",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A320-200",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4af37"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-LAD",
+    "note": "Active anniversary-marked A320; included for complete multi-airport Qatar coverage but cannot operate the nonstop SEA route."
+  },
+  {
+    "registration": "A7-AHL",
+    "name": "oneworld",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A320-200",
+    "category": "Alliance",
+    "colors": ["#1f5b77", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-AHL",
+    "note": "Active oneworld A320; included for complete multi-airport Qatar coverage but cannot operate the nonstop SEA route."
+  },
+  {
+    "registration": "A7-AHO",
+    "name": "oneworld",
+    "airline": "Qatar Airways",
+    "aircraftType": "Airbus A320-200",
+    "category": "Alliance",
+    "colors": ["#1f5b77", "#ffffff"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-AHO",
+    "note": "Active oneworld A320; included for complete multi-airport Qatar coverage but cannot operate the nonstop SEA route."
+  },
+  {
+    "registration": "A7-BFG",
+    "name": "Moved by People",
+    "airline": "Qatar Airways Cargo",
+    "aircraftType": "Boeing 777F",
+    "category": "Cargo Campaign",
+    "colors": ["#6f123c", "#9aa4aa"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/photos/reg/A7-BFG",
+    "note": "Active Moved by People cargo livery; included because the tracker supports cargo-capable airports even though passenger FIDS queries may omit cargo by default."
+  },
+  {
+    "registration": "A7-BEH",
+    "name": "FIFA World Cup 2026",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Sports",
+    "colors": ["#7b123d", "#d6b56d"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.qatarairways.com/press-releases/en-WW/266075-qatar-airways-unveils-fifa-special-livery-and-bespoke-onboard-experience/",
+    "note": "Current FIFA World Cup 2026 livery on Qatar's SEA-compatible 777-300ER."
+  },
+  {
+    "registration": "A7-BEG",
+    "name": "Formula 1 Official Partner - 2025",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Sports",
+    "colors": ["#7b123d", "#111111"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.qatarairways.com/press-releases/ar-MER/258519-1/",
+    "note": "Full-body Formula 1 Official Partner design unveiled in late 2025 on Qatar's SEA-compatible 777-300ER."
+  },
+  {
+    "registration": "A7-BEL",
+    "name": "Formula 1 Global Partner - 2023",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Sports",
+    "colors": ["#7b123d", "#111111"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/tracking-special-sports-liveries/",
+    "note": "Earlier Formula 1 Global Partner design, distinct from A7-BEG, on Qatar's SEA-compatible 777-300ER."
+  },
+  {
+    "registration": "A7-BAC",
+    "name": "25th Anniversary Retro",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-300ER",
+    "category": "Retro",
+    "colors": ["#6f123c", "#c6a46a"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.flightradar24.com/data/aircraft/a7-bac",
+    "note": "Qatar 25th-anniversary retro livery; this registration was photographed at SEA in January 2026."
+  },
+  {
+    "registration": "A7-BBC",
+    "name": "25 Years of Excellence",
+    "airline": "Qatar Airways",
+    "aircraftType": "Boeing 777-200LR",
+    "category": "Anniversary",
+    "colors": ["#6f123c", "#d4c0aa"],
+    "verifiedOn": "2026-08-27",
+    "sourceUrl": "https://www.planespotters.net/airframe/boeing-777-200-a7-bbc-qatar-airways/ej40oj",
+    "note": "25 Years of Excellence anniversary markings on a long-range 777; possible SEA substitution."
+  },
+  {
+    "registration": "N559AS", "name": "X̱áat Ḵwáani - Salmon People", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-800", "category": "Indigenous Art", "colors": ["#103f58", "#d96b37"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/content/travel-info/our-aircraft/737-800-salmon", "note": "Crystal Worl's Alaska Native formline-art livery; a frequent SEA-based aircraft."
+  },
+  {
+    "registration": "N932AK", "name": "West Coast Wonders", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-9 MAX", "category": "Sustainability", "colors": ["#0c3658", "#36a3a5"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/content/travel-info/our-aircraft/737-9-max-west-coast-wonders", "note": "Orca and West Coast environmental livery; a frequent SEA-based aircraft."
+  },
+  {
+    "registration": "N492AS", "name": "UNCF Our Commitment", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-900ER", "category": "Community", "colors": ["#141414", "#e58636"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.alaskaair.com/alaska-airlines/alaska-airlines-our-commitment-aircraft/", "note": "Education and racial-equity artwork created with UNCF; operates throughout Alaska's network."
+  },
+  {
+    "registration": "N570AS", "name": "Honoring Those Who Serve", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-800", "category": "Military Tribute", "colors": ["#143b6b", "#b51d2a"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/content/travel-info/our-aircraft", "note": "Alaska military-tribute livery on a SEA-compatible 737-800."
+  },
+  {
+    "registration": "N651QX", "name": "Honoring Those Who Serve", "airline": "Horizon Air", "aircraftType": "Embraer 175", "category": "Military Tribute", "colors": ["#143b6b", "#b51d2a"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/en-au/content/travel-info/our-aircraft/e175-honoring-those-who-serve", "note": "Horizon Air military-tribute E175 operating extensively through SEA."
+  },
+  {
+    "registration": "N265AK", "name": "Honoring Those Who Serve", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-900ER", "category": "Military Tribute", "colors": ["#143b6b", "#b51d2a"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/data/aircraft/n265ak/", "note": "Active Alaska military-tribute 737-900ER frequently routed through SEA."
+  },
+  {
+    "registration": "N806AK", "name": "Honoring Those Who Serve", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-8 MAX", "category": "Military Tribute", "colors": ["#143b6b", "#b51d2a"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/data/aircraft/n806ak", "note": "Active Alaska military-tribute MAX 8, observed on SEA service in August 2026."
+  },
+  {
+    "registration": "N248AK", "name": "Boeing 100 Years Strong", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-900ER", "category": "Milestone", "colors": ["#174a7c", "#65a7cf"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/tracking-special-milestone-liveries/", "note": "Boeing centennial markings on an active Alaska 737-900ER."
+  },
+  {
+    "registration": "N486AS", "name": "oneworld", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-900ER", "category": "Alliance", "colors": ["#172f55", "#dce7eb"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/content/travel-info/our-aircraft/737-oneworld", "note": "Active oneworld special colors on an Alaska 737-900ER."
+  },
+  {
+    "registration": "N487AS", "name": "oneworld", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-900ER", "category": "Alliance", "colors": ["#172f55", "#dce7eb"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/content/travel-info/our-aircraft/737-oneworld", "note": "Active oneworld special colors on an Alaska 737-900ER."
+  },
+  {
+    "registration": "N491AS", "name": "oneworld", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-900ER", "category": "Alliance", "colors": ["#172f55", "#dce7eb"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.jetphotos.com/photo/12095660", "note": "Active oneworld special colors, photographed in May 2026."
+  },
+  {
+    "registration": "N652MK", "name": "Horizon Meatball Retro", "airline": "Horizon Air", "aircraftType": "Embraer 175", "category": "Retro", "colors": ["#bd4a28", "#e18a35"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/content/travel-info/our-aircraft/e175-horizon", "note": "Horizon Air's original meatball-logo colors; the MK suffix honors founder Milt Kuolt."
+  },
+  {
+    "registration": "N661QX", "name": "Go Cougs - Washington State University", "airline": "Horizon Air", "aircraftType": "Embraer 175", "category": "University", "colors": ["#981e32", "#5e6a71"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.alaskaair.com/community/alaska-airlines-unveils-washington-state-university-and-university-of-washington-aircraft/", "note": "WSU-themed E175 designed for long-term operation in Horizon's SEA-centered network."
+  },
+  {
+    "registration": "N662QX", "name": "Go Dawgs - University of Washington", "airline": "Horizon Air", "aircraftType": "Embraer 175", "category": "University", "colors": ["#4b2e83", "#b7a57a"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.alaskaair.com/community/alaska-airlines-unveils-washington-state-university-and-university-of-washington-aircraft/", "note": "UW-themed E175 introduced on SEA-PDX and used throughout Horizon's network."
+  },
+  {
+    "registration": "N710AL", "name": "Seattle Mariners", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-9 MAX", "category": "Sports", "colors": ["#0c2c56", "#0c8b84"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.alaskaair.com/community/seattle-mariners-alaska-airlines-aircraft-2024/", "note": "Current Seattle Mariners livery, scheduled to fly throughout Alaska's network into 2026."
+  },
+  {
+    "registration": "N933AK", "name": "Seattle Kraken", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-9 MAX", "category": "Sports", "colors": ["#001628", "#68a2b9"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/content/travel-info/our-aircraft/737-9-max-seattle-kraken", "note": "Current second-generation Seattle Kraken livery, active through the 2026 season."
+  },
+  {
+    "registration": "N538AS", "name": "Star Wars Transport to Disneyland Resort", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-800", "category": "Disney", "colors": ["#111111", "#3767a6"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.alaskaair.com/alaska-airlines/starwars-galaxysedge-livery/", "note": "Black Star Wars: Galaxy's Edge Disneyland Resort special."
+  },
+  {
+    "registration": "N537AS", "name": "Friendship and Beyond at Disneyland Resort", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-800", "category": "Disney", "colors": ["#4aa2d9", "#f2c73b"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/content/travel-info/our-aircraft/737-800-friendship-and-beyond-disneyland-resort", "note": "Toy Story-themed Disneyland Resort special."
+  },
+  {
+    "registration": "N565AS", "name": "Mickey's Toontown Express", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-800", "category": "Disney", "colors": ["#e74836", "#f2c53d"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.alaskaair.com/content/travel-info/our-aircraft/737-800-mickeys-toontown-express", "note": "Mickey, Minnie and friends Disneyland Resort special."
+  },
+  {
+    "registration": "N596AS", "name": "Tiana's Bayou Adventure Flyer", "airline": "Alaska Airlines", "aircraftType": "Boeing 737-800", "category": "Disney", "colors": ["#3d6f51", "#d8bd55"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.alaskaair.com/guest-experience/alaska-airlines-livery-tianas-bayou-adventure-flyer-celebrates-spirit-of-adventure/", "note": "Princess Tiana Disneyland Resort special scheduled to operate for several years."
+  },
+  {
+    "registration": "N375HA", "name": "Aloha a puni ka honua - oneworld", "airline": "Hawaiian Airlines", "aircraftType": "Airbus A330-200", "category": "Alliance", "colors": ["#5b285f", "#d7b267"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.alaskaair.com/company/aloha-all-around-the-world-hawaiian-airlines-unveils-oneworld-alliance-livery-aircraft/", "note": "Hawaiian's 2026 oneworld A330 carrying the Hawaiian phrase 'Aloha all around the world'; directly eligible for SEA-Hawaii service."
+  },
+  {
+    "registration": "N500WR", "name": "Freedom One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-800", "category": "Patriotic", "colors": ["#24478f", "#c92135"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "American-flag special livery; Southwest 737s operate at SEA."
+  },
+  {
+    "registration": "N8719Q", "name": "Liberty One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-8 MAX", "category": "Patriotic", "colors": ["#24478f", "#c92135"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "2026 American-flag and America 250 special."
+  },
+  {
+    "registration": "N1776R", "name": "Independence One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-8 MAX", "category": "Patriotic", "colors": ["#173c78", "#c42136"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/blog/aviation-news/airline-news/southwest-introduces-independence-one-livery/", "note": "Full America 250 design with 1776 titles and Declaration of Independence text."
+  },
+  {
+    "registration": "N8710M", "name": "Imua One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-8 MAX", "category": "State", "colors": ["#6c315e", "#e58d3f"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "Hawaii-inspired Imua One livery; can rotate through Southwest's SEA network."
+  },
+  {
+    "registration": "N8555Z", "name": "Tennessee One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-800", "category": "State", "colors": ["#c8102e", "#ffffff"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planespotters.net/airframe/boeing-737-800-n8555z-southwest-airlines/egzmod", "note": "Current Tennessee state-flag livery, repainted onto this 737-800 in 2026."
+  },
+  {
+    "registration": "N8619F", "name": "Illinois One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-800", "category": "State", "colors": ["#ffffff", "#c62b35"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "Illinois state-flag special livery."
+  },
+  {
+    "registration": "N8660A", "name": "Lone Star One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-800", "category": "State", "colors": ["#163a73", "#c52032"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "Texas state-flag special livery."
+  },
+  {
+    "registration": "N8653A", "name": "California One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-800", "category": "State", "colors": ["#ffffff", "#b92633"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "California state-flag special livery."
+  },
+  {
+    "registration": "N955WN", "name": "Arizona One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-700", "category": "State", "colors": ["#bf2d36", "#f5b335"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.lockonaviation.net/html/fleets.php?fli_shortname=wn", "note": "Active Arizona state-flag special on one of Southwest's remaining 737-700s."
+  },
+  {
+    "registration": "N9019R", "name": "Florida One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-8 MAX", "category": "State", "colors": ["#ffffff", "#c52c35"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.reddit.com/r/SouthwestAirlines/comments/1vx8pc8/new_florida_one/", "note": "New Florida One MAX 8 observed in its completed special paint on August 24, 2026; entering revenue service after make-ready."
+  },
+  {
+    "registration": "N8690A", "name": "Colorado One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-800", "category": "State", "colors": ["#173f7a", "#d44732"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "Current Colorado state-flag livery."
+  },
+  {
+    "registration": "N8977G", "name": "Louisiana One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-8 MAX", "category": "State", "colors": ["#184a86", "#ffffff"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "Current Louisiana state-flag livery on a MAX 8."
+  },
+  {
+    "registration": "N214WN", "name": "Maryland One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-700", "category": "State", "colors": ["#d5a823", "#bb2632"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "Active Maryland state-flag special on a 737-700."
+  },
+  {
+    "registration": "N280WN", "name": "Missouri One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-700", "category": "State", "colors": ["#244680", "#c52634"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "Active Missouri state-flag special on a 737-700."
+  },
+  {
+    "registration": "N8646B", "name": "Nevada One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-800", "category": "State", "colors": ["#1f4f8d", "#d9bd55"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "Nevada state-flag special livery."
+  },
+  {
+    "registration": "N8655D", "name": "New Mexico One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-800", "category": "State", "colors": ["#efc22f", "#bd2831"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "New Mexico state-flag special livery."
+  },
+  {
+    "registration": "N8681M", "name": "Triple Crown One", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-800", "category": "Heritage", "colors": ["#b79b55", "#b92633"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/southwest-airlines-special-colors", "note": "Triple Crown recognition livery in Southwest's active fleet."
+  },
+  {
+    "registration": "N8730Q", "name": "Love in the Air", "airline": "Southwest Airlines", "aircraftType": "Boeing 737-8 MAX", "category": "Temporary", "colors": ["#31509a", "#e04777"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.reddit.com/r/SouthwestAirlines/comments/1vpgkxp/new_southwest_airlines_decal_special_livery/", "note": "Temporary August 2026 television-production decals; include until the decals are confirmed removed."
+  },
+  {
+    "registration": "N162AA", "name": "Stand Up To Cancer", "airline": "American Airlines", "aircraftType": "Airbus A321-200", "category": "Community", "colors": ["#d92f56", "#566575"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/data/aircraft/n162aa", "note": "Active Stand Up To Cancer A321; operated multiple SEA flights in August 2026."
+  },
+  {
+    "registration": "N167AN", "name": "Flagship Valor", "airline": "American Airlines", "aircraftType": "Airbus A321-200", "category": "Military Tribute", "colors": ["#263f6d", "#b79a55"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.aa.com/news/news-details/2022/Flagship-Valor-A-flying-tribute-to-Medal-of-Honor-recipients-COMM-MVI-03/default.aspx", "note": "Medal of Honor tribute wrap on an A321 family routinely eligible for SEA service."
+  },
+  {
+    "registration": "N578UW", "name": "US Airways Heritage", "airline": "American Airlines", "aircraftType": "Airbus A321-200", "category": "Retro", "colors": ["#1f2d4f", "#b71f35"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/tracking-retro-jets-and-airline-history/", "note": "Active US Airways heritage aircraft in American's A321 fleet."
+  },
+  {
+    "registration": "N579UW", "name": "Allegheny Heritage", "airline": "American Airlines", "aircraftType": "Airbus A321-200", "category": "Retro", "colors": ["#263b64", "#c73432"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active Allegheny Airlines heritage A321."
+  },
+  {
+    "registration": "N580UW", "name": "America West Heritage", "airline": "American Airlines", "aircraftType": "Airbus A321-200", "category": "Retro", "colors": ["#5e3c78", "#c96c42"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active America West heritage A321."
+  },
+  {
+    "registration": "N581UW", "name": "Piedmont Heritage", "airline": "American Airlines", "aircraftType": "Airbus A321-200", "category": "Retro", "colors": ["#21437a", "#c52435"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active Piedmont Airlines heritage A321."
+  },
+  {
+    "registration": "N582UW", "name": "PSA Heritage", "airline": "American Airlines", "aircraftType": "Airbus A321-200", "category": "Retro", "colors": ["#ec7e37", "#df3f72"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active Pacific Southwest Airlines heritage A321."
+  },
+  {
+    "registration": "N934AA", "name": "7,500th Airbus A320 Family Aircraft", "airline": "American Airlines", "aircraftType": "Airbus A321-200", "category": "Milestone", "colors": ["#607285", "#c51f3a"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Airbus production milestone markings on an active American A321."
+  },
+  {
+    "registration": "N837NN", "name": "oneworld", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Alliance", "colors": ["#445e78", "#dfe4e6"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active American oneworld 737-800; directly eligible for SEA service."
+  },
+  {
+    "registration": "N840NN", "name": "100 Years", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Centennial", "colors": ["#687889", "#bfc4c8"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.aa.com/centennial/our-stories/launch-of-centennial-livery/default.aspx", "note": "American's full centennial livery on a SEA-compatible 737-800."
+  },
+  {
+    "registration": "N844NN", "name": "FIFA World Cup 2026", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Sports", "colors": ["#742544", "#5d83a4"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.aa.com/news/news-details/2026/American-Airlines-Qatar-Airways-celebrates-FIFA-World-Cup-26-MKG-OTH-04/default.aspx", "note": "American's first full sports-themed livery, active through the 2026 tournament."
+  },
+  {
+    "registration": "N905NN", "name": "Astrojet Heritage", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Retro", "colors": ["#c9c9c6", "#c51e33"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active 1960s Astrojet retro livery."
+  },
+  {
+    "registration": "N915NN", "name": "TWA Heritage", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Retro", "colors": ["#ffffff", "#c51e33"], "verifiedOn": "2026-08-25", "sourceUrl": "https://archiv.herpa.de/en/product-datasheet/71075d45ecb8f56b2b50c96ef7d36445/create", "note": "Active Trans World Airlines heritage livery, independently observed in August 2026."
+  },
+  {
+    "registration": "N916NN", "name": "Reno Air Heritage", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Retro", "colors": ["#365c85", "#b7b9b8"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active Reno Air heritage livery."
+  },
+  {
+    "registration": "N917NN", "name": "AirCal Heritage", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Retro", "colors": ["#e07a35", "#70468a"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active Air California heritage livery."
+  },
+  {
+    "registration": "N919NN", "name": "oneworld", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Alliance", "colors": ["#445e78", "#dfe4e6"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active American oneworld 737-800."
+  },
+  {
+    "registration": "N921NN", "name": "American Heritage - Bare Metal", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Retro", "colors": ["#c7c8c6", "#be2436"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "Active polished-metal-look American heritage livery."
+  },
+  {
+    "registration": "N953NN", "name": "America 250", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Patriotic", "colors": ["#5f7184", "#c11f36"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.jetphotos.com/photo/12129471", "note": "American America 250 narrowbody livery, photographed in June 2026."
+  },
+  {
+    "registration": "N973AN", "name": "oneworld", "airline": "American Airlines", "aircraftType": "Boeing 737-800", "category": "Alliance", "colors": ["#445e78", "#dfe4e6"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/data/aircraft/n973an", "note": "Active American oneworld 737-800."
+  },
+  {
+    "registration": "N341MB", "name": "America 250", "airline": "American Eagle", "aircraftType": "Embraer 175", "category": "Patriotic", "colors": ["#5f7184", "#c11f36"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/airlines-celebrate-united-states-semiquincentennial-with-special-liveries/", "note": "American Eagle's America 250 regional aircraft; included for an unusual E175 assignment or charter at SEA."
+  },
+  {
+    "registration": "N760MQ", "name": "American Eagle Heritage", "airline": "American Eagle", "aircraftType": "Embraer 170", "category": "Retro", "colors": ["#c4c6c6", "#b62036"], "verifiedOn": "2026-08-25", "sourceUrl": "https://sites.google.com/view/aafleetsite/speical-liveries", "note": "American Eagle heritage regional jet; included for an unusual SEA assignment or charter."
+  },
+  {
+    "registration": "N735AT", "name": "Flagship DFW", "airline": "American Airlines", "aircraftType": "Boeing 777-300ER", "category": "Centennial", "colors": ["#c3c4c2", "#e3702c"], "verifiedOn": "2026-08-25", "sourceUrl": "https://news.aa.com/centennial/our-stories/flagship-livery/default.aspx", "note": "American's only fully painted special widebody; included as a rare diversion, charter or fleet-substitution watch at SEA."
+  },
+  {
+    "registration": "N78285", "name": "Stars and Stripes - America 250", "airline": "United Airlines", "aircraftType": "Boeing 737-800", "category": "Patriotic", "colors": ["#123b78", "#c72035"], "verifiedOn": "2026-08-25", "sourceUrl": "https://united.mediaroom.com/2026-06-15-United-Celebrates-America-with-Custom-250th-Anniversary-Livery-and-Military-Pilot-Hiring-Program-Milestone", "note": "United's America 250 narrowbody, directly eligible for SEA service."
+  },
+  {
+    "registration": "N91007", "name": "Stars and Stripes - America 250", "airline": "United Airlines", "aircraftType": "Boeing 787-10 Dreamliner", "category": "Patriotic", "colors": ["#123b78", "#c72035"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/united-adds-two-stars-and-stripes-special-livery-aircraft/", "note": "United's America 250 widebody; included as a rare domestic or international SEA substitution."
+  },
+  {
+    "registration": "N44550", "name": "100 Years", "airline": "United Airlines", "aircraftType": "Airbus A321neo", "category": "Centennial", "colors": ["#164f8e", "#6aa7c8"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.lockonaviation.net/html/fleets.php?fli_shortname=UAL", "note": "United centennial A321neo, a narrowbody type used at SEA."
+  },
+  {
+    "registration": "N61101", "name": "100 Years", "airline": "United Airlines", "aircraftType": "Boeing 787-9 Dreamliner", "category": "Centennial", "colors": ["#164f8e", "#6aa7c8"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.lockonaviation.net/html/fleets.php?fli_shortname=UAL", "note": "United centennial 787-9, a United widebody family that can operate at SEA."
+  },
+  {
+    "registration": "N475UA", "name": "Friend Ship Retro", "airline": "United Airlines", "aircraftType": "Airbus A320-200", "category": "Retro", "colors": ["#254c85", "#d87336"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.planecaptures.com/collection/united-airlines-special-colors", "note": "Active 1970s United Friend Ship retro livery, observed in August 2026."
+  },
+  {
+    "registration": "N75435", "name": "Continental Blue Skyways Retro", "airline": "United Airlines", "aircraftType": "Boeing 737-900ER", "category": "Retro", "colors": ["#2c4b76", "#c59b45"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/data/aircraft/n75435", "note": "United's active Continental Airlines retro 737-900ER."
+  },
+  {
+    "registration": "N36272", "name": "Star Wars - The Rise of Skywalker", "airline": "United Airlines", "aircraftType": "Boeing 737-800", "category": "Entertainment", "colors": ["#171717", "#315a9a"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/blog/flight-tracking-news/special-aircraft-tracking/heres-how-to-track-all-the-star-wars-special-liveries/", "note": "Black Star Wars aircraft with blue and red lightsaber sides; still listed as active in May 2026."
+  },
+  {
+    "registration": "N14219", "name": "Star Alliance", "airline": "United Airlines", "aircraftType": "Boeing 737-800", "category": "Alliance", "colors": ["#111111", "#eeeeeb"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.flightradar24.com/data/aircraft/n14219", "note": "Active United Star Alliance 737-800, verified on current flight history in August 2026."
+  },
+  {
+    "registration": "N24988", "name": "The Future is SAF", "airline": "United Airlines", "aircraftType": "Boeing 787-9 Dreamliner", "category": "Sustainability", "colors": ["#174f87", "#56a6aa"], "verifiedOn": "2026-08-25", "sourceUrl": "https://www.lockonaviation.net/html/fleets.php?fli_shortname=UAL", "note": "United sustainable-aviation-fuel promotional 787-9; included for United widebody operations or substitutions at SEA."
+  }
+,
+  {"registration":"C-GHLM","name":"Star Alliance","airline":"Air Canada","aircraftType":"Airbus A330-300","category":"Alliance","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"OH-LTO","name":"Marimekko Unikko","airline":"Finnair","aircraftType":"Airbus A330-300","category":"Special","colors":["#003580","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"OH-LVD","name":"Oneworld","airline":"Finnair","aircraftType":"Airbus A319","category":"Alliance","colors":["#003580","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"OH-LWB","name":"Oneworld","airline":"Finnair","aircraftType":"Airbus A350-900","category":"Alliance","colors":["#003580","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"OH-LKN","name":"Oneworld","airline":"Finnair","aircraftType":"Embraer ERJ190","category":"Alliance","colors":["#003580","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIRY","name":"Die Maus","airline":"Lufthansa","aircraftType":"Airbus A321","category":"Pop Culture","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AILU","name":"Lu-Hansa","airline":"Lufthansa","aircraftType":"Airbus A319","category":"Special","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-ABYT","name":"Lufthansa Retro","airline":"Lufthansa","aircraftType":"Boeing 747-8","category":"Heritage","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIGN","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A340-300","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIGP","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A340-300","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIGV","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A340-300","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"EI-DVM","name":"Aer Lingus Retro","airline":"Aer Lingus","aircraftType":"Airbus A320","category":"Heritage","colors":["#007f68","#66cc99"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA614A","name":"Star Alliance","airline":"All Nippon Airways","aircraftType":"Boeing 767-300ER","category":"Alliance","colors":["#1c4e9a","#59a9df"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"XA-ADL","name":"Quetzalcoatl","airline":"Aeromexico","aircraftType":"Boeing 787-9","category":"Special","colors":["#102f5e","#d6b370"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"OY-KBO","name":"SAS Retro","airline":"Scandinavian Airlines","aircraftType":"Airbus A319","category":"Heritage","colors":["#1f3a68","#d7dde8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"9V-SWI","name":"Star Alliance (White)","airline":"Singapore Airlines","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#0b2350","#d4af37"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"9V-SWJ","name":"Star Alliance (White)","airline":"Singapore Airlines","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#0b2350","#d4af37"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"HL8071","name":"Star Alliance","airline":"Asiana Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#5c2d91","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"HL7783","name":"SkyTeam","airline":"Korean Air","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#5aa7df","#d71920"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-18007","name":"Boeing","airline":"China Airlines","aircraftType":"Boeing 777-300ER","category":"Special","colors":["#6b4c9a","#e56b8a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-18311","name":"SkyTeam","airline":"China Airlines","aircraftType":"Airbus A330-300","category":"Alliance","colors":["#6b4c9a","#e56b8a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-16333","name":"Hello Kitty - Sanrio Characters","airline":"EVA Air","aircraftType":"Airbus A330-300","category":"Special","colors":["#0a7b4f","#ed8b00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-16332","name":"Sanrio Joyful Dream","airline":"EVA Air","aircraftType":"Airbus A330-300","category":"Special","colors":["#0a7b4f","#ed8b00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-16715","name":"Star Alliance","airline":"EVA Air","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#0a7b4f","#ed8b00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRO","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JPP","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A320","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JPS","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A320","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRA","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRB","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRL","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JNC","name":"Turkish Airlines Retro","airline":"Turkish Airlines","aircraftType":"Airbus A330-200","category":"Heritage","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N791AN","name":"Oneworld","airline":"American Airlines","aircraftType":"Boeing 777-200ER","category":"Alliance","colors":["#0078d2","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N796AN","name":"Oneworld","airline":"American Airlines","aircraftType":"Boeing 777-200ER","category":"Alliance","colors":["#0078d2","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N845MH","name":"Breast Cancer Research Foundation","airline":"Delta Air Lines","aircraftType":"Boeing 767-400ER","category":"Cause","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N3758Y","name":"SkyTeam","airline":"Delta Air Lines","aircraftType":"Boeing 737-800","category":"Alliance","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N3761R","name":"SkyTeam","airline":"Delta Air Lines","aircraftType":"Boeing 737-800","category":"Alliance","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N381DN","name":"SkyTeam","airline":"Delta Air Lines","aircraftType":"Boeing 737-800","category":"Alliance","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N605JB","name":"Boston Red Sox baseball team","airline":"JetBlue","aircraftType":"Airbus A320","category":"Sports","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N586JB","name":"I Love NYC","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N598JB","name":"Inspiring Humanity","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N615JB","name":"New York City Fire Dept.","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N531JL","name":"New York City Police Dept.","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N763JB","name":"New York International: Vintage","airline":"JetBlue","aircraftType":"Airbus A320","category":"Heritage","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N746JB","name":"New York Jets 2025 American football team","airline":"JetBlue","aircraftType":"Airbus A320","category":"Sports","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N775JB","name":"Vets In Blue (2022) / America250 (sticker)","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N945WN","name":"Florida One","airline":"Southwest Airlines","aircraftType":"Boeing 737-700","category":"Special","colors":["#304cb2","#e31837"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N26210","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 737-800","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N76516","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 737-800","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N14120","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 757-200","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N653UA","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 767-300ER","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N76055","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 767-400ER","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N218UA","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 777-200ER","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N76021","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 777-200ER","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N77022","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 777-200ER","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N794UA","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 777-200ER","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRP","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N595JB","name":"Boston Celtics basketball team","airline":"JetBlue","aircraftType":"Airbus A320","category":"Sports","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N603JB","name":"JetBlue Vacations","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JLU","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A319","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N779JB","name":"Bluericua / Puerto Rico","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N633JB","name":"Brooklyn Nets basketball team","airline":"JetBlue","aircraftType":"Airbus A320","category":"Sports","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N809JB","name":"JetBlue For Good","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N623JB","name":"JetBlue Vacations","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N648JB","name":"JetBlue Vacations","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JVZ","name":"6000th Boeing NG 737 (sticker)","airline":"Turkish Airlines","aircraftType":"Boeing 737-800","category":"Anniversary","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRS","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"G-EUPJ","name":"BEA Retro","airline":"British Airways","aircraftType":"Airbus A319","category":"Heritage","colors":["#075aaa","#eb2226"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA381A","name":"Flying Honu Sea Turtle (Hawaiian Blue)","airline":"All Nippon Airways","aircraftType":"Airbus A380","category":"Special","colors":["#1c4e9a","#59a9df"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-KQI","name":"Oneworld","airline":"Cathay Pacific","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#006564","#b7a68e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIZH","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A320","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N906WN","name":"Charles E Taylor (America's First Mechanic) (sticker)","airline":"Southwest Airlines","aircraftType":"Boeing 737-700","category":"Special","colors":["#304cb2","#e31837"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AICH","name":"Retro","airline":"Condor","aircraftType":"Airbus A320","category":"Heritage","colors":["#f5c400","#1e4a72"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-KQL","name":"Oneworld","airline":"Cathay Pacific","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#006564","#b7a68e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"9V-SWM","name":"Star Alliance (White)","airline":"Singapore Airlines","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#0b2350","#d4af37"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"RP-C3508","name":"Love Bus","airline":"Philippine Airlines","aircraftType":"Airbus A350-900","category":"Special","colors":["#003b7a","#d71920"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N632JB","name":"Boston Bruins NHL team","airline":"JetBlue","aircraftType":"Airbus A320","category":"Sports","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA382A","name":"Flying Honu Sea Turtle (Hawaiian Ocean)","airline":"All Nippon Airways","aircraftType":"Airbus A380","category":"Special","colors":["#1c4e9a","#59a9df"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA01XJ","name":"Airbus A350 (Red)","airline":"Japan Airlines","aircraftType":"Airbus A350-900","category":"Special","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-GEGI","name":"Star Alliance","airline":"Air Canada","aircraftType":"Airbus A330-300","category":"Alliance","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA02XJ","name":"Airbus A350 (Silver)","airline":"Japan Airlines","aircraftType":"Airbus A350-900","category":"Special","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA03XJ","name":"Airbus A350 (Green)","airline":"Japan Airlines","aircraftType":"Airbus A350-900","category":"Cause","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-KQM","name":"Oneworld","airline":"Cathay Pacific","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#006564","#b7a68e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-GEGP","name":"Star Alliance","airline":"Air Canada","aircraftType":"Airbus A330-300","category":"Alliance","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIZN","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A320","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIZM","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A320","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AILT","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A319","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-KQN","name":"Oneworld","airline":"Cathay Pacific","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#006564","#b7a68e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AILS","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A319","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N841MH","name":"Relay For Life (sticker)","airline":"Delta Air Lines","aircraftType":"Boeing 767-400ER","category":"Cause","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIBJ","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A319","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AILP","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A319","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-KPD","name":"Oneworld","airline":"Cathay Pacific","aircraftType":"Boeing 777-300ER","category":"Alliance","colors":["#006564","#b7a68e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-ABYP","name":"1500th 747 (sticker)","airline":"Lufthansa","aircraftType":"Boeing 747-8","category":"Anniversary","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N391DN","name":"Thank You / Employees' Names","airline":"Delta Air Lines","aircraftType":"Airbus A321","category":"Special","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIUA","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A320","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRY","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N502DN","name":"The Delta Spirit (sticker)","airline":"Delta Air Lines","aircraftType":"Airbus A350-900","category":"Cause","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-GNBN","name":"Trans-Canada Air Lines (TCA) Retro","airline":"Air Canada","aircraftType":"Airbus A220-300","category":"Heritage","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRD","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JNB","name":"Turkiye","airline":"Turkish Airlines","aircraftType":"Airbus A330-200","category":"Special","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"G-TTNA","name":"BA Better World/Sustainable Aviation Fuel","airline":"British Airways","aircraftType":"Airbus A320neo","category":"Special","colors":["#075aaa","#eb2226"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EEU","name":"Destination Dubai (was Dubai Expo2020)","airline":"Emirates","aircraftType":"Airbus A380","category":"Special","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N27261","name":"United Together / Being United","airline":"United Airlines","aircraftType":"Boeing 737 MAX 8","category":"Special","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA383A","name":"Flying Honu Sea Turtle (Hawaiian Sunset)","airline":"All Nippon Airways","aircraftType":"Airbus A380","category":"Special","colors":["#1c4e9a","#59a9df"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JSG","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EOT","name":"Destination Dubai (was Dubai Expo2020)","airline":"Emirates","aircraftType":"Airbus A380","category":"Special","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIBH","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A319","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EES","name":"Destination Dubai (was Dubai Expo2020)","airline":"Emirates","aircraftType":"Airbus A380","category":"Special","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIBI","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A319","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EEW","name":"Destination Dubai (was Dubai Expo2020)","airline":"Emirates","aircraftType":"Airbus A380","category":"Special","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA15XJ","name":"Oneworld","airline":"Japan Airlines","aircraftType":"Airbus A350-900","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA861J","name":"Oneworld","airline":"Japan Airlines","aircraftType":"Boeing 787-9","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRR","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AINY","name":"Lovehansa / Pride Month (sticker)","airline":"Lufthansa","aircraftType":"Airbus A320neo","category":"Cause","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N3746H","name":"World Series Champions 2021 (sticker)","airline":"Delta Air Lines","aircraftType":"Boeing 737-800","category":"Sports","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"9V-MBL","name":"Star Alliance (White)","airline":"Singapore Airlines","aircraftType":"Boeing 737 MAX 8","category":"Alliance","colors":["#0b2350","#d4af37"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-18101","name":"Pokemon Pikachu Jet","airline":"China Airlines","aircraftType":"Airbus A321neo","category":"Pop Culture","colors":["#6b4c9a","#e56b8a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N603FR","name":"America's Green Airline","airline":"Frontier Airlines","aircraftType":"Airbus A321neo","category":"Cause","colors":["#0b7a3e","#62b33a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA874A","name":"ANA Future Promise","airline":"All Nippon Airways","aircraftType":"Boeing 787-8","category":"Special","colors":["#1c4e9a","#59a9df"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N871HK","name":"Desert Gold Retro","airline":"Southwest Airlines","aircraftType":"Boeing 737 MAX 8","category":"Heritage","colors":["#304cb2","#e31837"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N872CB","name":"Canyon Blue Retro","airline":"Southwest Airlines","aircraftType":"Boeing 737 MAX 8","category":"Heritage","colors":["#304cb2","#e31837"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"G-YMMR","name":"Oneworld","airline":"British Airways","aircraftType":"Boeing 777-200ER","category":"Alliance","colors":["#075aaa","#eb2226"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N604FR","name":"America's Green Airline","airline":"Frontier Airlines","aircraftType":"Airbus A321neo","category":"Cause","colors":["#0b7a3e","#62b33a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N605FR","name":"America's Green Airline","airline":"Frontier Airlines","aircraftType":"Airbus A321neo","category":"Cause","colors":["#0b7a3e","#62b33a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"OH-LWR","name":"Bringing Us Together Since 1923 (sticker)","airline":"Finnair","aircraftType":"Airbus A350-900","category":"Special","colors":["#003580","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N78017","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 777-200ER","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-17812","name":"Star Alliance","airline":"EVA Air","aircraftType":"Boeing 787-10","category":"Alliance","colors":["#0a7b4f","#ed8b00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIEQ","name":"600th Airbus Aircraft (sticker)","airline":"Lufthansa","aircraftType":"Airbus A321neo","category":"Special","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-GOFV","name":"Star Alliance","airline":"Air Canada","aircraftType":"Airbus A330-300","category":"Alliance","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-GXZD","name":"Star Alliance","airline":"Air Canada","aircraftType":"Airbus A330-300","category":"Alliance","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA784A","name":"Pokemon Eevee Jet","airline":"All Nippon Airways","aircraftType":"Boeing 777-300ER","category":"Pop Culture","colors":["#1c4e9a","#59a9df"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-GEFA","name":"Proudly contributing to climate research (sticker)","airline":"Air Canada","aircraftType":"Airbus A330-300","category":"Cause","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N706JB","name":"Peacock","airline":"JetBlue","aircraftType":"Airbus A320","category":"Pop Culture","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AILX","name":"Star Alliance","airline":"Lufthansa","aircraftType":"Airbus A319","category":"Alliance","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JRF","name":"100th Anniversary of Republic of Turkey","airline":"Turkish Airlines","aircraftType":"Airbus A321","category":"Anniversary","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"9V-SCP","name":"1000th 787 Dreamliner (sticker)","airline":"Singapore Airlines","aircraftType":"Boeing 787-10","category":"Special","colors":["#0b2350","#d4af37"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-LJH","name":"Bio Fuel","airline":"Turkish Airlines","aircraftType":"Boeing 777-300ER","category":"Special","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"G-EUYS","name":"Oneworld","airline":"British Airways","aircraftType":"Airbus A320","category":"Alliance","colors":["#075aaa","#eb2226"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"G-EUYP","name":"Oneworld","airline":"British Airways","aircraftType":"Airbus A320","category":"Alliance","colors":["#075aaa","#eb2226"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JPK","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A320","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N27255","name":"Aviate (sticker)","airline":"United Airlines","aircraftType":"Boeing 737 MAX 8","category":"Special","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N938WN","name":"Heroes of the Heart Meteorology (sticker)","airline":"Southwest Airlines","aircraftType":"Boeing 737-700","category":"Special","colors":["#304cb2","#e31837"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"HL8557","name":"100th Airbus Aircraft (sticker)","airline":"Korean Air","aircraftType":"Airbus A321neo","category":"Anniversary","colors":["#5aa7df","#d71920"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N521DN","name":"Team USA Olympic & Paralympic team","airline":"Delta Air Lines","aircraftType":"Airbus A350-900","category":"Sports","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"G-STBN","name":"Great Futures (sticker)","airline":"British Airways","aircraftType":"Boeing 777-300ER","category":"Special","colors":["#075aaa","#eb2226"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-FDHG","name":"Star Alliance","airline":"Air Canada","aircraftType":"Airbus A330-300","category":"Alliance","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N76522","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 737-800","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N6712B","name":"Atlanta - Where You Belong (sticker)","airline":"Delta Air Lines","aircraftType":"Boeing 757-200","category":"Special","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"XA-GQS","name":"Kukulcan","airline":"Aeromexico","aircraftType":"Boeing 737 MAX 9","category":"Special","colors":["#102f5e","#d6b370"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TF-LLL","name":"National Geographic","airline":"Icelandair","aircraftType":"Boeing 757-200","category":"Special","colors":["#003b70","#f4c542"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AICS","name":"Breast Cancer Awareness","airline":"Condor","aircraftType":"Airbus A320","category":"Cause","colors":["#f5c400","#1e4a72"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N528VL","name":"Pura Raniza (sticker)","airline":"Volaris","aircraftType":"Airbus A320neo","category":"Special","colors":["#652d90","#d4145a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N33284","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 737-800","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EOD","name":"NBA Official Partner","airline":"Emirates","aircraftType":"Airbus A380","category":"Special","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N76523","name":"Star Alliance","airline":"United Airlines","aircraftType":"Boeing 737-800","category":"Alliance","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-16217","name":"Hello Kitty - Pinky Jet","airline":"EVA Air","aircraftType":"Airbus A321","category":"Special","colors":["#0a7b4f","#ed8b00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA58AN","name":"Furusato Jet","airline":"All Nippon Airways","aircraftType":"Boeing 737-800","category":"Special","colors":["#1c4e9a","#59a9df"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIEP","name":"Help Alliance","airline":"Lufthansa","aircraftType":"Airbus A321neo","category":"Special","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N809SY","name":"Minnesota Golden Gophers athletics team","airline":"Sun Country Airlines","aircraftType":"Boeing 737-800","category":"Sports","colors":["#f58220","#1f5aa6"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N970JB","name":"Honoring the fly-est crew in the biz","airline":"JetBlue","aircraftType":"Airbus A321","category":"Cause","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"G-EUUR","name":"Comic Relief / Red Nose Day 2025","airline":"British Airways","aircraftType":"Airbus A320","category":"Pop Culture","colors":["#075aaa","#eb2226"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N561JB","name":"Mario & Friends","airline":"JetBlue","aircraftType":"Airbus A320","category":"Pop Culture","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N742AM","name":"Most On Time Global Airline (sticker)","airline":"Aeromexico","aircraftType":"Boeing 787-9","category":"Special","colors":["#102f5e","#d6b370"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-FSBV","name":"2025 Employee Excellence Awards Recipients","airline":"Air Canada","aircraftType":"Boeing 787-9","category":"Special","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA869J","name":"Oneworld","airline":"Japan Airlines","aircraftType":"Boeing 787-9","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N552VL","name":"We Love Los Angeles (sticker)","airline":"Volaris","aircraftType":"Airbus A320neo","category":"Special","colors":["#652d90","#d4145a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EET","name":"Emirates Courier Express","airline":"Emirates","aircraftType":"Airbus A380","category":"Special","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N191DN","name":"Delta 100 Years (sticker)","airline":"Delta Air Lines","aircraftType":"Boeing 767-300ER","category":"Anniversary","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N643JB","name":"Dunkin doughnuts & coffee","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-HLR","name":"Monitoring for Climate Change (sticker)","airline":"Cathay Pacific","aircraftType":"Airbus A330-300","category":"Cause","colors":["#006564","#b7a68e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"XA-VLB","name":"Ellos ahorraron volaris.com (sticker)","airline":"Volaris","aircraftType":"Airbus A320","category":"Special","colors":["#652d90","#d4145a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"XA-VRV","name":"90th Volaris aircraft (sticker)","airline":"Volaris","aircraftType":"Airbus A320neo","category":"Anniversary","colors":["#652d90","#d4145a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N542VL","name":"'Superman' movie","airline":"Volaris","aircraftType":"Airbus A321neo","category":"Pop Culture","colors":["#652d90","#d4145a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"XA-VUR","name":"Volaris 150% Guarantee","airline":"Volaris","aircraftType":"Airbus A320neo","category":"Special","colors":["#652d90","#d4145a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N657JB","name":"Yo Soy Boricua / I Am Puerto Rican","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JPR","name":"Star Alliance","airline":"Turkish Airlines","aircraftType":"Airbus A320","category":"Alliance","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EUE","name":"Emirates Skywards 25th Anniversary","airline":"Emirates","aircraftType":"Airbus A380","category":"Anniversary","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-ASGE","name":"Eintracht Frankfurt football team","airline":"Condor","aircraftType":"Airbus A320","category":"Sports","colors":["#f5c400","#1e4a72"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N694DL","name":"The Spirit of Freedom (sticker)","airline":"Delta Air Lines","aircraftType":"Boeing 757-200","category":"Cause","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-LNF","name":"Turkish Airlines Holidays (sticker)","airline":"Turkish Airlines","aircraftType":"Airbus A330-300","category":"Special","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-GEGC","name":"Fly The Flag / Canadian Olympic team","airline":"Air Canada","aircraftType":"Airbus A330-300","category":"Sports","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N537JT","name":"JetBlue's first flight from Boston","airline":"JetBlue","aircraftType":"Airbus A320","category":"Anniversary","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EUH","name":"Proud Partner of Grand Slam Tennis","airline":"Emirates","aircraftType":"Airbus A380","category":"Sports","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N531DN","name":"Team USA Olympic & Paralympic team","airline":"Delta Air Lines","aircraftType":"Airbus A350-900","category":"Sports","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N47345","name":"ecoDemonstrator Explorer (sticker)","airline":"United Airlines","aircraftType":"Boeing 737 MAX 8","category":"Special","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AING","name":"100th Anniversary","airline":"Lufthansa","aircraftType":"Airbus A320neo","category":"Anniversary","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AISZ","name":"1950s Parabola Retro","airline":"Lufthansa","aircraftType":"Airbus A321","category":"Heritage","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N804AM","name":"World's Most Punctual Airline 2024/5 (sticker)","airline":"Aeromexico","aircraftType":"Boeing 737 MAX 9","category":"Special","colors":["#102f5e","#d6b370"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-KQU","name":"Spirit of Hong Kong - 80th Anniversary Edition","airline":"Cathay Pacific","aircraftType":"Boeing 777-300ER","category":"Anniversary","colors":["#006564","#b7a68e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIND","name":"100th Anniversary","airline":"Lufthansa","aircraftType":"Airbus A320neo","category":"Anniversary","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-58552","name":"Carbon Fibre","airline":"STARLUX Airlines","aircraftType":"Airbus A350-1000","category":"Special","colors":["#4a3426","#c6a15b"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"D-AIEM","name":"A Century Since Takeoff","airline":"Lufthansa","aircraftType":"Airbus A321neo","category":"Anniversary","colors":["#05164d","#ffad00"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TF-FIA","name":"Loftleidir Icelandic","airline":"Icelandair","aircraftType":"Boeing 757-200","category":"Special","colors":["#003b70","#f4c542"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N538VL","name":"Super Mario Galaxy video game","airline":"Volaris","aircraftType":"Airbus A320neo","category":"Pop Culture","colors":["#652d90","#d4145a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-FIVM","name":"2026 Employee Excellence Awards recipients","airline":"Air Canada","aircraftType":"Boeing 777-300ER","category":"Special","colors":["#d8292f","#111111"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA921A","name":"Pokemon Monster Ball (sticker)","airline":"All Nippon Airways","aircraftType":"Boeing 787-9","category":"Pop Culture","colors":["#1c4e9a","#59a9df"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EVG","name":"This Flag Will Always Fly","airline":"Emirates","aircraftType":"Airbus A380","category":"Special","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N553NW","name":"America250 (sticker)","airline":"Delta Air Lines","aircraftType":"Boeing 757-200","category":"Special","colors":["#071d49","#c8102e"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N826SY","name":"Retro","airline":"Sun Country Airlines","aircraftType":"Boeing 737-800","category":"Heritage","colors":["#f58220","#1f5aa6"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N3308J","name":"Blueprint","airline":"JetBlue","aircraftType":"Airbus A220-300","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EOE","name":"Arsenal Champions","airline":"Emirates","aircraftType":"Airbus A380","category":"Sports","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N377AR","name":"Corona Beer (sticker)","airline":"Aeromexico","aircraftType":"Boeing 737-800","category":"Special","colors":["#102f5e","#d6b370"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N599JB","name":"Dominican Republic","airline":"JetBlue","aircraftType":"Airbus A320","category":"Special","colors":["#003876","#00a6d2"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"TC-JOD","name":"Nexus of the World","airline":"Turkish Airlines","aircraftType":"Airbus A330-300","category":"Special","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA339J","name":"Tokyo DisneySea - Sparkling Jubilee","airline":"Japan Airlines","aircraftType":"Boeing 737-800","category":"Pop Culture","colors":["#c8102e","#ffffff"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"XA-VUS","name":"Mexico esta de Moda / Mexico national football team (World Cup 2026) (sticker)","airline":"Volaris","aircraftType":"Airbus A320neo","category":"Sports","colors":["#652d90","#d4145a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EQH","name":"This Flag Will Always Fly","airline":"Emirates","aircraftType":"Boeing 777-300ER","category":"Special","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"A6-EXR","name":"This Flag Will Always Fly","airline":"Emirates","aircraftType":"Airbus A350-900","category":"Special","colors":["#d71920","#c9a55a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"B-32MU","name":"SPDB Leasing (sticker)","airline":"Hainan Airlines","aircraftType":"Airbus A330-900","category":"Special","colors":["#c8102e","#d4af37"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"C-GORP","name":"Toronto Blue Jays baseball team","airline":"WestJet","aircraftType":"Boeing 737 MAX 8","category":"Sports","colors":["#007f83","#1f4e79"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"XA-XXV","name":"20 Years","airline":"Volaris","aircraftType":"Airbus A321neo","category":"Anniversary","colors":["#652d90","#d4145a"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N64321","name":"Born To Explore (sticker)","airline":"United Airlines","aircraftType":"Airbus A321XLR","category":"Special","colors":["#005daa","#72b5e8"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"JA819A","name":"Red Pokemon Jet","airline":"All Nippon Airways","aircraftType":"Boeing 787-8","category":"Pop Culture","colors":["#1c4e9a","#59a9df"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"N479HA","name":"'Disney's Moana' movie","airline":"Hawaiian Airlines","aircraftType":"Boeing 717","category":"Pop Culture","colors":["#4f2d7f","#e54f8d"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"XA-AMQ","name":"Second Year In A Row, Most On-Time Global Airline (sticker)","airline":"Aeromexico","aircraftType":"Boeing 787-9","category":"Anniversary","colors":["#102f5e","#d6b370"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."},
+  {"registration":"XA-MAT","name":"Patrocinador Oficial de la NFL en México (sticker)","airline":"Aeromexico","aircraftType":"Boeing 737 MAX 8","category":"Special","colors":["#102f5e","#d6b370"],"verifiedOn":"2026-08-27","sourceUrl":"https://airportwebcams.net/special-liveries/","note":"Current-livery audit for a carrier serving SEA. Registration matching is local; equipment not normally scheduled to SEA will only match if it actually appears in the airport feed."}
+]
